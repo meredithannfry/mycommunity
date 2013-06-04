@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>Brisbane s calendar LIVE</title>
+		<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>31 May 2013 01:29:33 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.10129//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>Brisbane's calendar|LIVE</xCal:calname>
+		<xCal:timezone>Australia/Brisbane</xCal:timezone>
+		<item>
+			<title>Parkinson Dragonboat and Multicultural Festival</title>
+			<description>Forest Lake Parklands, Forest Lake &lt;br/&gt;Ongoing through Thursday, June 6, 2013, 10am &lt;br/&gt;&lt;br/&gt;The Parkinson Ward Multicultural and Dragon Boat Festival first held in 2010, is now an annual event on Brisbane&amp;#39;s Multicultural calendar co-ordinated by the HAKKA Association, Forest Lake Rotary Club and the Queensland Dragonboat Federation and is proudly funded by the Brisbane City Council.&amp;#160;&lt;br /&gt; &lt;br /&gt; As part of this festival, the day traditionally commences with a citizenship ceremony followed by a full program of multicultural entertainment, Dragonboat races with professional teams competing in the Lord Mayor&amp;#39;s Dragonboat challenge and lots of multicultural stalls including a vast array of tantalising multicultural food.&amp;#160;&lt;br /&gt; &lt;br /&gt; The Dragon Boat Festival commemorates the 2000 years&amp;#39; old story of the statesman and poet Chu Yuan, who in the 3rd century, in protest against a corrupt kingdom, threw himself into the Mi Lo River in despair. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.angelaowentaylor.com.au/OurCommunity/SpecialEvents/MulticulturalandDragonBoatFestival.aspx" target="_blank" title="http://www.angelaowentaylor.com.au/OurCommunity/SpecialEvents/MulticulturalandDragonBoatFestival.aspx"&gt;www.angelaowentaylor.com.au&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610581</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sysg45kkmz06hp5eb489w4akzg</x-trumba:ealink>
+			<category>2013/06/02 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610581</guid>
+			<xCal:summary>Parkinson Dragonboat and Multicultural Festival</xCal:summary>
+			<xCal:location>Forest Lake Parklands, Forest Lake</xCal:location>
+			<xCal:dtstart>2013-06-02T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-02T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-06T00:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-06T10:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Parkinson Ward Multicultural and Dragon Boat Festival first held in 2010, is now an annual event on Brisbane's Multicultural calendar co-ordinated by the HAKKA Association, Forest Lake Rotary Club and the Queensland Dragonboat Federation and is proudly funded by the Brisbane City Council.&amp;nbsp;
+ 
+ As part of this festival, the day traditionally commences with a citizenship ceremony followed by a full program of multicultural entertainment, Dragonboat races with professional teams competing in the Lord Mayor's Dragonboat challenge and lots of multicultural stalls including a vast array of tantalising multicultural food.&amp;nbsp;
+ 
+ The Dragon Boat Festival commemorates the 2000 years' old story of the statesman and poet Chu Yuan, who in the 3rd century, in protest against a corrupt kingdom, threw himself into the Mi Lo River in despair.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610581</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCo2nMMmJQiKC0Q0%2A-cK4Ea.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.angelaowentaylor.com.au/OurCommunity/SpecialEvents/MulticulturalandDragonBoatFestival.aspx</x-trumba:weblink>
+		</item>
+		<item>
+			<title>City Hall Concert Series: Tidemark Jazz Concert</title>
+			<description>Tuesday, June 4, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Jenni Cocking presents a selection of her favourite jazz tunes from her two Tidemark recording sessions, by the beach at Redland Bay, in Brisbane. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Adelaide+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;Brisbane City Hall, Adelaide St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610528</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cjc65w9r95hzndbfxmyxkwr0j8</x-trumba:ealink>
+			<category>2013/06/04 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610528</guid>
+			<xCal:summary>City Hall Concert Series: Tidemark Jazz Concert</xCal:summary>
+			<xCal:location>Brisbane City Hall</xCal:location>
+			<xCal:dtstart>2013-06-04T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-04T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-04T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-04T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Jenni Cocking presents a selection of her favourite jazz tunes from her two Tidemark recording sessions, by the beach at Redland Bay, in Brisbane.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610528</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAYrdOtmZ-nONhrSEEVogLg.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane City Hall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, Adelaide St, Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Black Drum Arts and Cultural Markets: Red Dust Stories of Central Queensland and Celebration of Indigenous women</title>
+			<description>Wednesday, June 5, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Red Dust Stories of Central Queensland: Aboriginal dance group Wirdi Binbi tell their stories of their ancestry.&lt;br /&gt; &lt;br /&gt; Celebration of Indigenous women: A fashion parade celebrating Indigenous women in visual arts, fashion and the modelling industry. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=301421&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Queen Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.46963,153.025271(Queen+Street+Mall)" target="_blank"&gt;Queen Street Mall, Queen Street, Brisbane, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610545</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cp4sy1ap4n78c6s2x6pwrcdkx3</x-trumba:ealink>
+			<category>2013/06/05 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610545</guid>
+			<xCal:summary>Black Drum Arts and Cultural Markets: Red Dust Stories of Central Queensland and Celebration of Indigenous women</xCal:summary>
+			<xCal:location>Queen Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-05T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-05T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-05T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-05T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Red Dust Stories of Central Queensland: Aboriginal dance group Wirdi Binbi tell their stories of their ancestry.
+ 
+ Celebration of Indigenous women: A fashion parade celebrating Indigenous women in visual arts, fashion and the modelling industry.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610545</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBrk4wHXUC9DRta7PtSAYAS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Queen Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Queen Street Mall, Queen Street, Brisbane, Australia</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Introduction to Mixed Media</title>
+			<description>Wynnum Hall &lt;br/&gt;Friday, June 7, 2013, 1&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;Participate in a soul-nurturing mixed media workshop, with local artist Chrissy Foreman Cranitch using a combination of paint, pens, crayon, fabrics, papers and more. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Programs&lt;/b&gt;:&amp;nbsp;Art bites &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="http://www.brisstyle.com.au/" target="_blank"&gt;www.brisstyle.com.au&lt;/a&gt; (places are limited) &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610558</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sbz775nkdn515r9cuepacw79c1</x-trumba:ealink>
+			<category>2013/06/07 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610558</guid>
+			<xCal:summary>Introduction to Mixed Media</xCal:summary>
+			<xCal:location>Wynnum Hall</xCal:location>
+			<xCal:dtstart>2013-06-07T03:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-07T13:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-07T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-07T15:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Participate in a soul-nurturing mixed media workshop, with local artist Chrissy Foreman Cranitch using a combination of paint, pens, crayon, fabrics, papers and more.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610558</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgD3HOG%2AaalVEtPIJ28-Bpq%2A.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Programs" id="22196" type="text">Art bites</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through www.BrisStyle.com.au (places are limited)</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Expect the unexpected - Market Street</title>
+			<description>Market Street, &lt;br /&gt;Brisbane &lt;br/&gt;Friday, June 7, 2013, 5&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;Expect the unexpected.&lt;br /&gt; &lt;br /&gt; Friday Night Laneways brings to life the hidden nooks and crannies of our city centre.&amp;#160; These spaces will be transformed through a vivid and captivating array of events, themes, performances and outdoor displays.&lt;br /&gt; &lt;br /&gt; Market Street will be transformed with Jazz Vibes - a scintillating night of cool jazz, dance moves and good food. Featuring music from the internationally acclaimed Tyrone Noonan &amp;#8211;as well as local jazz band SCAT.&amp;#160; Come on downtown and move to the groove. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d105683023</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c4dww9f19s92yxrdw0nfmyx9ya</x-trumba:ealink>
+			<category>2013/06/07 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105683023</guid>
+			<xCal:summary>Expect the unexpected - Market Street</xCal:summary>
+			<xCal:location>Market Street, 
+Brisbane</xCal:location>
+			<xCal:dtstart>2013-06-07T07:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-07T17:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-07T11:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-07T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Expect the unexpected.
+ 
+ Friday Night Laneways brings to life the hidden nooks and crannies of our city centre.&amp;nbsp; These spaces will be transformed through a vivid and captivating array of events, themes, performances and outdoor displays.
+ 
+ Market Street will be transformed with Jazz Vibes - a scintillating night of cool jazz, dance moves and good food. Featuring music from the internationally acclaimed Tyrone Noonan –as well as local jazz band SCAT.&amp;nbsp; Come on downtown and move to the groove.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105683023</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAqBTMbmm7oAK278mK0Wk7U.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Brilliance of Brass</title>
+			<description>State Library of Queensland &lt;br/&gt;Sunday, June 9, 2013 &lt;br/&gt;&lt;br/&gt;South Brisbane Federal Band will fill the multi levels of State Library with brass at its best. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610613</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mz6tj01wr71aj0fagbunp4xnc4</x-trumba:ealink>
+			<category>2013/06/09 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610613</guid>
+			<xCal:summary>Bands in Parks:  Brilliance of Brass</xCal:summary>
+			<xCal:location>State Library of Queensland</xCal:location>
+			<xCal:dtstart>2013-06-08T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-09T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-09T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-10T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>South Brisbane Federal Band will fill the multi levels of State Library with brass at its best.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610613</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBK5Az1hTs442lw1RzCDUpa.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Knitting and Crochet for Charity</title>
+			<description>Sunday, June 9, 2013, 10:30am&amp;nbsp;&amp;ndash;&amp;nbsp;12:30pm &lt;br/&gt;&lt;br/&gt;A great way of giving back to your local community. Make knitted craft&lt;br /&gt; items and learn basic knitting and crochet skills at the same time. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Programs&lt;/b&gt;:&amp;nbsp;Art bites &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="mailto:brisbanebrownowls@gmail.com" target="_blank"&gt;brisbanebrownowls@gmail.com&lt;/a&gt;,  (places are limited) &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183875&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Indooroopilly Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=322+Moggill+Rd%2c+Indooroopilly%2c+QLD+4068" target="_blank"&gt;Indooroopilly Shopping Centre, Level 4, 322 Moggill Rd, Indooroopilly 4068&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610568</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8xpdg6nueztbyd6u28m3cpj0zr</x-trumba:ealink>
+			<category>2013/06/09 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610568</guid>
+			<xCal:summary>Knitting and Crochet for Charity</xCal:summary>
+			<xCal:location>Indooroopilly Library</xCal:location>
+			<xCal:dtstart>2013-06-09T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-09T10:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-09T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-09T12:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>A great way of giving back to your local community. Make knitted craft
+ items and learn basic knitting and crochet skills at the same time.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610568</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9CKwQe3ozG%2A8FxAGWyIbx.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Programs" id="22196" type="text">Art bites</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through brisbanebrownowls@gmail.com
+ (places are limited)</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Indooroopilly Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Indooroopilly Shopping Centre, Level 4, 322 Moggill Rd, Indooroopilly 4068</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDjMTvqwGiEKxGhpjq1uGrM.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Just Jazz</title>
+			<description>Sunday, June 9, 2013, 2pm &lt;br/&gt;&lt;br/&gt;It don&amp;#8217;t mean a thing if it ain&amp;#8217;t got that swing! and there&amp;#8217;ll be plenty of swing, blues and Dixieland. This is a concert that comes from the very heart of St John Ambulance Concert Band as so many of its core musicians are jazz professionals. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=221589&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Captain Burke Park&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Holman+St%2c+Kangaroo+Point%2c+QLD+4169" target="_blank"&gt;Captain Burke Park,Holman Street, Kangaroo Point, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610614</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g0y76h9cdxw15zvb73t70a4xs2</x-trumba:ealink>
+			<category>2013/06/09 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610614</guid>
+			<xCal:summary>Bands in Parks: Just Jazz</xCal:summary>
+			<xCal:location>Captain Burke Park</xCal:location>
+			<xCal:dtstart>2013-06-09T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-09T14:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-09T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-09T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>It don’t mean a thing if it ain’t got that swing! and there’ll be plenty of swing, blues and Dixieland. This is a concert that comes from the very heart of St John Ambulance Concert Band as so many of its core musicians are jazz professionals.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610614</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDvr7ZMmjM628G0QTq5swvx.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Captain Burke Park</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Captain Burke Park,Holman Street, Kangaroo Point, Australia</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDXd9O5AAq6WTAYzN82T1Mw.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>City Hall Concert Series: Masterpieces of the 20th Century</title>
+			<description>Tuesday, June 11, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Four of Brisbane&amp;#39;s most exciting young musicians, Tabatha McFadyen, Alex Raineri, Eddy Chen and Oliver Scott join forces to present this concert of twentieth-century gems. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Adelaide+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;Brisbane City Hall, Adelaide St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610529</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gs6b342ewgnweve9v63cman18a</x-trumba:ealink>
+			<category>2013/06/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610529</guid>
+			<xCal:summary>City Hall Concert Series: Masterpieces of the 20th Century</xCal:summary>
+			<xCal:location>Brisbane City Hall</xCal:location>
+			<xCal:dtstart>2013-06-11T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-11T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-11T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-11T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Four of Brisbane's most exciting young musicians, Tabatha McFadyen, Alex Raineri, Eddy Chen and Oliver Scott join forces to present this concert of twentieth-century gems.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610529</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAYrdOtmZ-nONhrSEEVogLg.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane City Hall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, Adelaide St, Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Black Drum Arts and Cultural Markets: Ancient Dreamtime Stores and The Voice of the Wind and Sea</title>
+			<description>Wednesday, June 12, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Ancient Dreamtime Stories: Experience the earthy and moving presentation of traditional songs and dances with Nunukul Yuggera, as they dance to the didgeridoo.&lt;br /&gt; &lt;br /&gt; The Voice of the Wind and Sea: Keriba Mabaigal Erub Dance Company brings you the unique song and dance from the Eastern Islands group in the Torres Strait. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=301421&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Queen Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.46963,153.025271(Queen+Street+Mall)" target="_blank"&gt;Queen Street Mall, Queen Street, Brisbane, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610546</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g05p7psxpk2rp4r4r06m9u790m</x-trumba:ealink>
+			<category>2013/06/12 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610546</guid>
+			<xCal:summary>Black Drum Arts and Cultural Markets: Ancient Dreamtime Stores and The Voice of the Wind and Sea</xCal:summary>
+			<xCal:location>Queen Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-12T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-12T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-12T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-12T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Ancient Dreamtime Stories: Experience the earthy and moving presentation of traditional songs and dances with Nunukul Yuggera, as they dance to the didgeridoo.
+ 
+ The Voice of the Wind and Sea: Keriba Mabaigal Erub Dance Company brings you the unique song and dance from the Eastern Islands group in the Torres Strait.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610546</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDmYDOlLI66taZGJTkJ-5ko.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Queen Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Queen Street Mall, Queen Street, Brisbane, Australia</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Old School Embroidery Samplers</title>
+			<description>Friday, June 14, 2013, 10:30am&amp;nbsp;&amp;ndash;&amp;nbsp;12:30pm &lt;br/&gt;&lt;br/&gt;Making samplers of embroidery stitches was something that every girl was taught. Take a journey back in time. Embroider an array of old school words and different stitches onto linen to make your own keepsake to treasure. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Programs&lt;/b&gt;:&amp;nbsp;Art bites &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="http://www.brisstyle.com.au/" target="_blank"&gt;www.brisstyle.com.au&lt;/a&gt; (places are limited) &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183885&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Seymour+St%2c+Sandgate%2c+QLD+4017" target="_blank"&gt;Sandgate Town Hall, Seymour St, Sandgate 4017&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610559</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=87tzt8ssvwwvg1eyf0rjmnntkz</x-trumba:ealink>
+			<category>2013/06/14 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610559</guid>
+			<xCal:summary>Old School Embroidery Samplers</xCal:summary>
+			<xCal:location>Sandgate Library</xCal:location>
+			<xCal:dtstart>2013-06-14T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-14T10:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-14T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-14T12:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Making samplers of embroidery stitches was something that every girl was taught. Take a journey back in time. Embroider an array of old school words and different stitches onto linen to make your own keepsake to treasure.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610559</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBEtKMy2JazlXDO3yrUXuVg.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Programs" id="22196" type="text">Art bites</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through www.BrisStyle.com.au (places are limited)</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Sandgate Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Seymour St, Sandgate 4017</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgC2E4zJpufM4hr4d5wvBDAI.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Get Noticed &#8211; Marketing your signature style</title>
+			<description>Saturday, June 15, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12:30pm &lt;br/&gt;&lt;br/&gt;Defining and developing your signature style is key to creating a cohesive brand. Learn the latest tips on how to refine and market your unique signature style and make your online business stand out in a crowd. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Bookings essential through &lt;a href="http://www.brisstyle.com.au/" target="_blank"&gt;www.brisstyle.com.au&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183876&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kenmore Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=9+Brookfield+Rd%2c+Kenmore%2c+QLD+4069" target="_blank"&gt;Kenmore Village, 9 Brookfield Road, Kenmore 4069&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610624</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=m04sxhyfg2um931bs6jacsh6s2</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610624</guid>
+			<xCal:summary>Get Noticed – Marketing your signature style</xCal:summary>
+			<xCal:location>Kenmore Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T12:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Defining and developing your signature style is key to creating a cohesive brand. Learn the latest tips on how to refine and market your unique signature style and make your online business stand out in a crowd.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610624</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBYfbN0nI5AzLxbcbTbNuW3.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Bookings essential through www.brisstyle.com.au</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Kenmore Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kenmore Village, 9 Brookfield Road, Kenmore 4069</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAN5cyw6vEcqxLT5E9ZZOv7.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Racecourse Road Winter Lights Carnival</title>
+			<description>Racecourse Road &lt;br /&gt;Ascot &lt;br/&gt;Saturday, June 15, 2013, 3&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;The Racecourse Road Carnival was one of the first to be held in Brisbane and has a long and illustrious history. This year the Racecourse Road Winter Lights Carnival brings the local community together to celebrate Queensland&amp;#8217;s amazing food and wine, fascinating local history and most importantly local creativity. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Family $20, general admission $5 &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://racecourseroadfestival.com.au/home/" target="_blank" title="http://racecourseroadfestival.com.au/home/"&gt;racecourseroadfestival.com.au&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610578</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4xwj6vxgbhkbu65yd5k073ats2</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610578</guid>
+			<xCal:summary>Racecourse Road Winter Lights Carnival</xCal:summary>
+			<xCal:location>Racecourse Road 
+Ascot</xCal:location>
+			<xCal:dtstart>2013-06-15T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T15:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T11:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Racecourse Road Carnival was one of the first to be held in Brisbane and has a long and illustrious history. This year the Racecourse Road Winter Lights Carnival brings the local community together to celebrate Queensland’s amazing food and wine, fascinating local history and most importantly local creativity.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610578</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Family $20, general admission $5</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBAnKyjHeKTjT7eY-ijXLJB.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://racecourseroadfestival.com.au/home/</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Basket Weaving</title>
+			<description>Sunday, June 16, 2013, 10:30am&amp;nbsp;&amp;ndash;&amp;nbsp;12:30pm &lt;br/&gt;&lt;br/&gt;Weave a lovely basket for your home with upcycled sheets, t-shirt yarn or fabric scraps. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Programs&lt;/b&gt;:&amp;nbsp;Art bites &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="mailto:brisbanebrownowls@gmail.com" target="_blank"&gt;brisbanebrownowls@gmail.com&lt;/a&gt; (places are limited) &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183858&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane Square Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=266+George+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;266 George St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610569</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0d7gwd4czet48b8mauxsaw9umu</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610569</guid>
+			<xCal:summary>Basket Weaving</xCal:summary>
+			<xCal:location>Brisbane Square Library</xCal:location>
+			<xCal:dtstart>2013-06-16T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T10:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T12:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weave a lovely basket for your home with upcycled sheets, t-shirt yarn or fabric scraps.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610569</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAPAx%2Ab8EhgjyvOKM8YFHp9.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Programs" id="22196" type="text">Art bites</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through brisbanebrownowls@gmail.com (places are limited)</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane Square Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">266 George St, Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCiTH77JDe%2AR-s9cvnDYCuS.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Milton Community Festival</title>
+			<description>10 Marie Street, &lt;br /&gt;Milton &lt;br/&gt;Sunday, June 16, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;The Polish Association is organising a weekend of community activities involving local artists, multicultural folk dance groups, music and food.&lt;br /&gt; &lt;br /&gt; We offer a free venue for the local and Brisbane artists to display their crafts.&amp;#160; This year is the 100 year anniversary of Polish Association in Queensland, so we will be adding historical displays and personal stories to show the cultural changes over this period. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.polonia.org.au/" target="_blank"&gt;www.polonia.org.au&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610582</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g05zspzns5zcppjuzzrvpvza9u</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610582</guid>
+			<xCal:summary>Milton Community Festival</xCal:summary>
+			<xCal:location>10 Marie Street, 
+Milton</xCal:location>
+			<xCal:dtstart>2013-06-16T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Polish Association is organising a weekend of community activities involving local artists, multicultural folk dance groups, music and food.
+ 
+ We offer a free venue for the local and Brisbane artists to display their crafts.&amp;nbsp; This year is the 100 year anniversary of Polish Association in Queensland, so we will be adding historical displays and personal stories to show the cultural changes over this period.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610582</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAjj5U25WwO4EFZxbZeAlzR.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>www.polonia.org.au</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Bands in Parks: Bayside Swing</title>
+			<description>Sunday, June 16, 2013, 2pm &lt;br/&gt;&lt;br/&gt;City Temple Salvation Army band entertain with a bright and lively concert with marches, swing tunes and toe-tapping brass favourites. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=202007&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Wynnum Wading Pool&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Wynnum+Esplanade%2c+Wynnum%2c+QLD+4178" target="_blank"&gt;Wynnum Wading Pool, Wynnum Esplanade, Wynnum&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610617</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=st6anfyzygd9ykkv13dyeg0vjf</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610617</guid>
+			<xCal:summary>Bands in Parks: Bayside Swing</xCal:summary>
+			<xCal:location>Wynnum Wading Pool</xCal:location>
+			<xCal:dtstart>2013-06-16T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Temple Salvation Army band entertain with a bright and lively concert with marches, swing tunes and toe-tapping brass favourites.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610617</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDlBjyVSw1r7Bx2sJsqXI49.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Wynnum Wading Pool</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Wynnum Wading Pool, Wynnum Esplanade, Wynnum</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9cukbwtMR%2AINiir4V16m8.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Glenn Miller to Gershwin</title>
+			<description>Sunday, June 16, 2013, 2pm &lt;br/&gt;&lt;br/&gt;Yellow Cabs Bayside Brass will play classic swing and jazz standards from the giants of the swing era &amp;#8211; Glenn Miller, Duke Ellington, Ella Fitzgerald and the Andrews Sisters. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=221585&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;C B Mott Park&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.515427,153.059292(C+B+Mott+Park)" target="_blank"&gt;Abbotsleigh Street, Holland Park&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610616</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=skdcbmz5ptva63169ev2mb3g91</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610616</guid>
+			<xCal:summary>Bands in Parks: Glenn Miller to Gershwin</xCal:summary>
+			<xCal:location>C B Mott Park</xCal:location>
+			<xCal:dtstart>2013-06-16T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Yellow Cabs Bayside Brass will play classic swing and jazz standards from the giants of the swing era – Glenn Miller, Duke Ellington, Ella Fitzgerald and the Andrews Sisters.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610616</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBxgjCifAbJ8LRcVWSsAi1v.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">C B Mott Park</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Abbotsleigh Street, Holland Park</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Music Across the Ages &#8211; from Merry Widow to Mozart</title>
+			<description>Sunday, June 16, 2013, 2pm &lt;br/&gt;&lt;br/&gt;Sunnybank Brass will take you on a music journey through the ages.&lt;br /&gt; From Lehar to Lennon, Mozart to Jenkins, Sunnybank Brass has it covered. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200264&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane Botanic Gardens, Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.476731,152.975392(Brisbane+Botanic+Gardens%2c+Mt+Coot-tha)" target="_blank"&gt;Mount Coot-tha Road, Mount Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610618</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cn6nmas5nm481gr4tcn2xep16p</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610618</guid>
+			<xCal:summary>Bands in Parks: Music Across the Ages – from Merry Widow to Mozart</xCal:summary>
+			<xCal:location>Brisbane Botanic Gardens, Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2013-06-16T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Sunnybank Brass will take you on a music journey through the ages.
+ From Lehar to Lennon, Mozart to Jenkins, Sunnybank Brass has it covered.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610618</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgB-kQLHw%2AV%2A3mlzuAEii%2AEF.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane Botanic Gardens, Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Mount Coot-tha Road, Mount Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9uPj1ILYcLB4ucMrHxhSq.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Tea and Symphony</title>
+			<description>Sunday, June 16, 2013, 2pm &lt;br/&gt;&lt;br/&gt;Enjoy a Devonshire tea on the verandah of Newstead House as Amadeus Orchestra presents a program of light classics. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200266&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Newstead House&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.444644358764,153.04541477031(Newstead+House%2c+Newstead)" target="_blank"&gt;Newstead House, Newstead&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610615</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sca9xpxgdhwtdgw5xy2zgy4ze5</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610615</guid>
+			<xCal:summary>Bands in Parks: Tea and Symphony</xCal:summary>
+			<xCal:location>Newstead House</xCal:location>
+			<xCal:dtstart>2013-06-16T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Enjoy a Devonshire tea on the verandah of Newstead House as Amadeus Orchestra presents a program of light classics.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610615</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAeoSewp8Wid5aCSvGknDdZ.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Newstead House</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Newstead House, Newstead</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Everyday Origami</title>
+			<description>Monday, June 17, 2013, 6&amp;nbsp;&amp;ndash;&amp;nbsp;8pm &lt;br/&gt;&lt;br/&gt;Learn to make origami out of all sorts of everyday paper from Fantail wrappers to junk mail. You&amp;#8217;ll make and take away a variety of eclectic origami pieces from the weird to the wonderful. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="http://www.brisstyle.com.au/" target="_blank"&gt;www.brisstyle.com.au&lt;/a&gt; (places are limited) &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183861&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Carindale Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=1151+Creek+Rd%2c+Carindale%2c+QLD+4152" target="_blank"&gt;Westfield Carindale, 1151 Creek Road (near Millenium Boulevard), Carindale&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610560</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=83mjp76rawv72mndz1k9sjfguv</x-trumba:ealink>
+			<category>2013/06/17 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610560</guid>
+			<xCal:summary>Everyday Origami</xCal:summary>
+			<xCal:location>Carindale Library</xCal:location>
+			<xCal:dtstart>2013-06-17T08:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-17T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-17T10:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-17T20:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Learn to make origami out of all sorts of everyday paper from Fantail wrappers to junk mail. You’ll make and take away a variety of eclectic origami pieces from the weird to the wonderful.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610560</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBKT3dc2RRhSFF9MCiJq7pv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through www.BrisStyle.com.au (places are limited)</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Carindale Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Westfield Carindale, 1151 Creek Road (near Millenium Boulevard), Carindale</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCyv0IaiOi0VbamyzSUCWtE.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>City Hall Concert Series: The Spiritual Connection Concert</title>
+			<description>Tuesday, June 18, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Gospel music captures all the emotions and Tell Heaven impeccably interprets the stories in song. The two great transcendental subjects that can be sung about are love and death. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Adelaide+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;Brisbane City Hall, Adelaide St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610530</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=w38u6waaw4kve62m1hnw48vcrm</x-trumba:ealink>
+			<category>2013/06/18 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610530</guid>
+			<xCal:summary>City Hall Concert Series: The Spiritual Connection Concert</xCal:summary>
+			<xCal:location>Brisbane City Hall</xCal:location>
+			<xCal:dtstart>2013-06-18T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-18T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-18T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-18T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Gospel music captures all the emotions and Tell Heaven impeccably interprets the stories in song. The two great transcendental subjects that can be sung about are love and death.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610530</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAYrdOtmZ-nONhrSEEVogLg.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane City Hall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, Adelaide St, Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Black Drum Arts and Cultural Markets: Listen to the beat of the Warrup (Drum) Hip FUNKFRESH</title>
+			<description>Wednesday, June 19, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Listen to the beat of the Warrup (drum): Performance from the island of Eddie Mabo with Maka Torres Strait Dance Theatre led by local songman, George Wano.&lt;br /&gt; Hip Funkfresh: Classik Nawu cleverly fuses the unique sounds of hip-hop, R&amp;amp;B, jazz and reggae to entertain audiences with their creative and engaging show. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=301421&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Queen Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.46963,153.025271(Queen+Street+Mall)" target="_blank"&gt;Queen Street Mall, Queen Street, Brisbane, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610547</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ccnvk4pvcngd4f83tybgh1nt30</x-trumba:ealink>
+			<category>2013/06/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610547</guid>
+			<xCal:summary>Black Drum Arts and Cultural Markets: Listen to the beat of the Warrup (Drum) Hip FUNKFRESH</xCal:summary>
+			<xCal:location>Queen Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-19T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-19T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-19T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-19T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Listen to the beat of the Warrup (drum): Performance from the island of Eddie Mabo with Maka Torres Strait Dance Theatre led by local songman, George Wano.
+ Hip Funkfresh: Classik Nawu cleverly fuses the unique sounds of hip-hop, R&amp;amp;B, jazz and reggae to entertain audiences with their creative and engaging show.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610547</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAmrQIFXsnDC%2AgKdpPf7MXD.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Queen Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Queen Street Mall, Queen Street, Brisbane, Australia</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>F&#234;te de la Musique</title>
+			<description>Various venues across Brisbane &lt;br/&gt;Friday, June 21, 2013, 5:30am&amp;nbsp;&amp;ndash;&amp;nbsp;8pm &lt;br/&gt;&lt;br/&gt;Music lovers are in for a treat as the city gets ready for a sound explosion!&lt;br /&gt; &lt;br /&gt; Brisbane will join the global community as musicians young to old, from all backgrounds, genres and abilities, take part in the largest International live musical celebration in the world - F&amp;#234;te de la Musique!&lt;br /&gt; &lt;br /&gt; Watch out as street corners, cafes, workplaces, schools and even public transport become a stage across the city.&lt;br /&gt; &lt;br /&gt; Developed by the French Government in 1982, F&amp;#234;te De La Musique is today celebrated in over 450 cities worldwide with the main aim to make music everywhere and to expose as many people to music as possible on the very same day each year &amp;#8211; 21 June.&lt;br /&gt; &lt;br /&gt; Keep an eye out for this delightful and spontaneous musical affair.&lt;br /&gt; &lt;br /&gt; &lt;a href="http://www.fetedelamusiquebrisbane.com.au/" target="_blank"&gt;www.fetedelamusiquebrisbane.com.au&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; Presented by Brisbane City Council in partnership with Brisbane Marketing and Alliance Francaise &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.fetedelamusiquebrisbane.qld.gov.au/" target="_blank"&gt;www.fetedelamusiquebrisbane.qld.gov.au&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610534</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cm0b7etjn0rh6ag8498bngwsej</x-trumba:ealink>
+			<category>2013/06/21 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610534</guid>
+			<xCal:summary>Fête de la Musique</xCal:summary>
+			<xCal:location>Various venues across Brisbane</xCal:location>
+			<xCal:dtstart>2013-06-20T19:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-21T05:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-21T10:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-21T20:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Music lovers are in for a treat as the city gets ready for a sound explosion!
+ 
+ Brisbane will join the global community as musicians young to old, from all backgrounds, genres and abilities, take part in the largest International live musical celebration in the world - Fête de la Musique!
+ 
+ Watch out as street corners, cafes, workplaces, schools and even public transport become a stage across the city.
+ 
+ Developed by the French Government in 1982, Fête De La Musique is today celebrated in over 450 cities worldwide with the main aim to make music everywhere and to expose as many people to music as possible on the very same day each year – 21 June.
+ 
+ Keep an eye out for this delightful and spontaneous musical affair.
+ 
+ www.fetedelamusiquebrisbane.com.au
+ 
+ Presented by Brisbane City Council in partnership with Brisbane Marketing and Alliance Francaise</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610534</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgB3V%2AHqC%2AYHRDm-TmMiatav.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.fetedelamusiquebrisbane.qld.gov.au</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Suburban Networking Marketplaces</title>
+			<description>St Augustine&amp;#39;s Church,&lt;br /&gt;Racecourse Road,&lt;br /&gt;Hamilton &lt;br/&gt;Saturday, June 22, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Suburban Networking Marketplaces highlight the imagination of Brisbane&amp;#39;s creative communities. Over tea and bikkies meet representatives from local craft groups and guilds, and mingle with emerging indie crafters in an old fashion suburban marketplace environment.&lt;br /&gt; &lt;br /&gt; With marketplaces at the four points of the compass, each will include presentations by inspirational speakers from the local area, who will analyse and discuss thei own creative journey. Traditionally marketplaces encourage and enhance social inclusion and participation. These will showcase local craft work and provide knowledge and resources within Brisbane&amp;#39;s neighbourhood craft communities. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d105692896</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=s0f9x1ckppssn0mhp4ett9gtr3</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105692896</guid>
+			<xCal:summary>Suburban Networking Marketplaces</xCal:summary>
+			<xCal:location>St Augustine's Church,
+Racecourse Road,
+Hamilton</xCal:location>
+			<xCal:dtstart>2013-06-21T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Suburban Networking Marketplaces highlight the imagination of Brisbane's creative communities. Over tea and bikkies meet representatives from local craft groups and guilds, and mingle with emerging indie crafters in an old fashion suburban marketplace environment.
+ 
+ With marketplaces at the four points of the compass, each will include presentations by inspirational speakers from the local area, who will analyse and discuss thei own creative journey. Traditionally marketplaces encourage and enhance social inclusion and participation. These will showcase local craft work and provide knowledge and resources within Brisbane's neighbourhood craft communities.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105692896</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCc49tdbKm5X-iGZa0gWABv.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Refugee Day Community Festival</title>
+			<description>Annerley Soccer Club Fields, &lt;br /&gt;Victoria Terrace, Greenslopes &lt;br/&gt;Sunday, June 23, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;5pm &lt;br/&gt;&lt;br/&gt;Celebrate cultural diversity and vibrancy with refugee communities.&lt;br /&gt; &lt;br /&gt; Australia&amp;#8217;s largest refugee festival comes alive with colourful, energetic and engaging music, song, costume and dance, visual arts and craft exhibitions.&lt;br /&gt; &lt;br /&gt; A great family event where you can sample delicious foods from around the world and learn how to create them.&lt;br /&gt; &lt;br /&gt; Presented by Brisbane City Council in association with Multicultural&lt;br /&gt; Development Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.mdainc.org.au/" target="_blank"&gt;www.mdainc.org.au&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610532</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sepyd8upz6hxbddhe49xx5jexv</x-trumba:ealink>
+			<category>2013/06/23 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610532</guid>
+			<xCal:summary>World Refugee Day Community Festival</xCal:summary>
+			<xCal:location>Annerley Soccer Club Fields, 
+Victoria Terrace, Greenslopes</xCal:location>
+			<xCal:dtstart>2013-06-22T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-23T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-23T07:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-23T17:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate cultural diversity and vibrancy with refugee communities.
+ 
+ Australia’s largest refugee festival comes alive with colourful, energetic and engaging music, song, costume and dance, visual arts and craft exhibitions.
+ 
+ A great family event where you can sample delicious foods from around the world and learn how to create them.
+ 
+ Presented by Brisbane City Council in association with Multicultural
+ Development Association</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610532</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBzLxsk0Pf0xIWOVvVRw3O1.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.mdainc.org.au</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Bands in Parks: Train Day</title>
+			<description>McPherson Park, Denham Road, Bracken Ridge &lt;br/&gt;Sunday, June 23, 2013, 11am &lt;br/&gt;&lt;br/&gt;Brisbane Brass 2 will entertain the crowds at the monthly Train Day at Bracken Ridge. Treat the young ones to a ride on a real steam train from 9.30am - 2.30pm. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610619</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cwzkg7w0muumjsprpprterd88h</x-trumba:ealink>
+			<category>2013/06/23 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610619</guid>
+			<xCal:summary>Bands in Parks: Train Day</xCal:summary>
+			<xCal:location>McPherson Park, Denham Road, Bracken Ridge</xCal:location>
+			<xCal:dtstart>2013-06-23T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-23T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-23T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-23T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Brisbane Brass 2 will entertain the crowds at the monthly Train Day at Bracken Ridge. Treat the young ones to a ride on a real steam train from 9.30am - 2.30pm.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610619</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA1d9KRF5SHMQ%2AEf7oNs29V.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>City Hall Concert Series: Blending Jewish Klezmer and Persian Poetry</title>
+			<description>Tuesday, June 25, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Hear the life, hope and boisterous celebration of Klezmer played by Eurotone Crisis, and eternal love, spirituality and mysticism performed by Hezar Ava Persian ensemble. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Adelaide+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;Brisbane City Hall, Adelaide St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610531</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wayxtvya6w37ww9x5ge964v5gj</x-trumba:ealink>
+			<category>2013/06/25 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610531</guid>
+			<xCal:summary>City Hall Concert Series: Blending Jewish Klezmer and Persian Poetry</xCal:summary>
+			<xCal:location>Brisbane City Hall</xCal:location>
+			<xCal:dtstart>2013-06-25T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-25T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-25T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-25T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Hear the life, hope and boisterous celebration of Klezmer played by Eurotone Crisis, and eternal love, spirituality and mysticism performed by Hezar Ava Persian ensemble.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610531</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAYrdOtmZ-nONhrSEEVogLg.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane City Hall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, Adelaide St, Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Amigurumi Toys</title>
+			<description>Tuesday, June 25, 2013, 1&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;Amigurumi is a Japanese form of crocheted stuffed toys. These toys are very kawaii (cute) and even topped the list for the most popular item at the online craft store Etsy in 2006. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Programs&lt;/b&gt;:&amp;nbsp;Art bites &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Essential through &lt;a href="http://www.brisstyle.com.au/" target="_blank"&gt;www.brisstyle.com.au&lt;/a&gt; (places are limited) &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183866&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Coopers Plains Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=107+Orange+Grove+Rd%2c+Coopers+Plains%2c+QLD+4108" target="_blank"&gt;107 Orange Grove Rd, Coopers Plains 4108&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610561</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4gmcradjsue7te34dxdxn1vh67</x-trumba:ealink>
+			<category>2013/06/25 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610561</guid>
+			<xCal:summary>Amigurumi Toys</xCal:summary>
+			<xCal:location>Coopers Plains Library</xCal:location>
+			<xCal:dtstart>2013-06-25T03:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-25T13:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-25T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-25T15:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Amigurumi is a Japanese form of crocheted stuffed toys. These toys are very kawaii (cute) and even topped the list for the most popular item at the online craft store Etsy in 2006.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610561</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDJwsVaJXO6NmHd0fiUutJ4.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Programs" id="22196" type="text">Art bites</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Essential through www.BrisStyle.com.au (places are limited)</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Coopers Plains Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">107 Orange Grove Rd, Coopers Plains 4108</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDjMTvqwGiEKxGhpjq1uGrM.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Black Drum Arts and Cultural Markets: Ancient Dreamtime Stories</title>
+			<description>Wednesday, June 26, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Ancient Dreamtime Stories: Experience the earthy and moving presentation of traditional songs and dances with Nunukul Yuggera.&lt;br /&gt; &lt;br /&gt; Koranga Saibai Koedal dancers promote and share their family spirit, values and culture of Saibai Island. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=301421&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Queen Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.46963,153.025271(Queen+Street+Mall)" target="_blank"&gt;Queen Street Mall, Queen Street, Brisbane, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610548</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4ecy5ysvnfa0ngtv47mrau457b</x-trumba:ealink>
+			<category>2013/06/26 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610548</guid>
+			<xCal:summary>Black Drum Arts and Cultural Markets: Ancient Dreamtime Stories</xCal:summary>
+			<xCal:location>Queen Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-26T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-26T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-26T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-26T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Ancient Dreamtime Stories: Experience the earthy and moving presentation of traditional songs and dances with Nunukul Yuggera.
+ 
+ Koranga Saibai Koedal dancers promote and share their family spirit, values and culture of Saibai Island.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610548</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDmYDOlLI66taZGJTkJ-5ko.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Queen Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Queen Street Mall, Queen Street, Brisbane, Australia</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Games Night</title>
+			<description>Thursday, June 27, 2013, 5&amp;nbsp;&amp;ndash;&amp;nbsp;8pm &lt;br/&gt;&lt;br/&gt;Start the weekend early by playing board games on Thursday night with your friends in Reddacliff Place.&lt;br /&gt; &lt;br /&gt; Whether on your own or with your buddies, a novice or a pro, battle&lt;br /&gt; it out with chess, Chinese checkers and many other classic board&lt;br /&gt; games night games.&lt;br /&gt; &lt;br /&gt; Just remember it&amp;#8217;s not about whether you win or lose &amp;#8211; it&amp;#8217;s how you play the game. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=266+George+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;266 George St, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104776431</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4zy682k9hh1n8cd8nctm73zx2b</x-trumba:ealink>
+			<category>2013/06/27 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104776431</guid>
+			<xCal:summary>Games Night</xCal:summary>
+			<xCal:location>Reddacliff Place</xCal:location>
+			<xCal:dtstart>2013-06-27T07:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-27T17:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-27T10:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-27T20:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Start the weekend early by playing board games on Thursday night with your friends in Reddacliff Place.
+ 
+ Whether on your own or with your buddies, a novice or a pro, battle
+ it out with chess, Chinese checkers and many other classic board
+ games night games.
+ 
+ Just remember it’s not about whether you win or lose – it’s how you play the game.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104776431</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA7zYNB8m78saVlS5-K%2AXzp.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Reddacliff Place</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">266 George St, Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Suburban Networking Marketplaces</title>
+			<description>Saturday, June 29, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Suburban Networking Marketplaces highlight the imagination of Brisbane&amp;#39;s creative communities. Over tea and bikkies meet representatives from local craft groups and guilds, and mingle with emerging indie crafters in an old fashion suburban marketplace environment.&lt;br /&gt; &lt;br /&gt; With marketplaces at the four points of the compass, each will include presentations by inspirational speakers from the local area, who will analyse and discuss thei own creative journey. Traditionally marketplaces encourage and enhance social inclusion and participation. These will showcase local craft work and provide knowledge and resources within Brisbane&amp;#39;s neighbourhood craft communities. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386179&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Northgate Hall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Corner of Scott and Ridge Streets, Northgate&lt;/span&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d105692889</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4rhb2hyv093tav94euy45bmczb</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105692889</guid>
+			<xCal:summary>Suburban Networking Marketplaces</xCal:summary>
+			<xCal:location>Northgate Hall</xCal:location>
+			<xCal:dtstart>2013-06-29T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Suburban Networking Marketplaces highlight the imagination of Brisbane's creative communities. Over tea and bikkies meet representatives from local craft groups and guilds, and mingle with emerging indie crafters in an old fashion suburban marketplace environment.
+ 
+ With marketplaces at the four points of the compass, each will include presentations by inspirational speakers from the local area, who will analyse and discuss thei own creative journey. Traditionally marketplaces encourage and enhance social inclusion and participation. These will showcase local craft work and provide knowledge and resources within Brisbane's neighbourhood craft communities.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105692889</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCc49tdbKm5X-iGZa0gWABv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Northgate Hall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Corner of Scott and Ridge Streets, Northgate</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Bands in Parks: Flavours of Scotland</title>
+			<description>Sunday, June 30, 2013, 12am &lt;br/&gt;&lt;br/&gt;UQ Pipe Band provides a touch of Scotland with an informal performance. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200265&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;City Botanic Gardens&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Alice+St%2c+Brisbane%2c+QLD+4000" target="_blank"&gt;City Botanic Gardens, Alice Street, Brisbane, Australia&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610620</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=s4pn7hwn02c9r76cv28ux2v2yj</x-trumba:ealink>
+			<category>2013/06/30 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610620</guid>
+			<xCal:summary>Bands in Parks: Flavours of Scotland</xCal:summary>
+			<xCal:location>City Botanic Gardens</xCal:location>
+			<xCal:dtstart>2013-06-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-30T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-30T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>UQ Pipe Band provides a touch of Scotland with an informal performance.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610620</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">City Botanic Gardens</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">City Botanic Gardens, Alice Street, Brisbane, Australia</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgB7y9syPu1LbR-h4tX%2AzDcN.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Teneriffe Festival</title>
+			<description>Vernon Tce, Teneriffe &lt;br/&gt;Saturday, July 6, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;The Teneriffe Festival was conceived after Brisbane&amp;#8217;s inner city area of Teneriffe was officially named a suburb, early in 2010. 2013 marks the fourth year for the Teneriffe&lt;br /&gt; &lt;br /&gt; Festival, in which we will celebrate the suburb&amp;#8217;s history, energy, cultural diversity, commerce and beauty. The Festival incorporates a rich program of events, from street markets, concerts and historical displays. Several of Teneriffe&amp;#8217;s main streets will be closed, offering our visitors a magnificent opportunity to discover the best that our suburb has to offer.&lt;br /&gt; &lt;br /&gt; The Teneriffe Festival attracts an audience of approximately 30,000 people across all of its events, making it one of Brisbane&amp;#8217;s most significant new festivals. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.teneriffefestival.org/" target="_blank"&gt;www.teneriffefestival.org&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/LIVE/index.htm?trumbaEmbed=view%3devent%26eventid%3d104610583</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=srchzegn791t3vvdg5muea2nt4</x-trumba:ealink>
+			<category>2013/07/06 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/104610583</guid>
+			<xCal:summary>Teneriffe Festival</xCal:summary>
+			<xCal:location>Vernon Tce, Teneriffe</xCal:location>
+			<xCal:dtstart>2013-07-06T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-06T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-06T12:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-06T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Teneriffe Festival was conceived after Brisbane’s inner city area of Teneriffe was officially named a suburb, early in 2010. 2013 marks the fourth year for the Teneriffe
+ 
+ Festival, in which we will celebrate the suburb’s history, energy, cultural diversity, commerce and beauty. The Festival incorporates a rich program of events, from street markets, concerts and historical displays. Several of Teneriffe’s main streets will be closed, offering our visitors a magnificent opportunity to discover the best that our suburb has to offer.
+ 
+ The Teneriffe Festival attracts an audience of approximately 30,000 people across all of its events, making it one of Brisbane’s most significant new festivals.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/104610583</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Location</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCaU4VCKuz%2Aeg%2AKSQBzsaT7.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|LIVE</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.teneriffefestival.org</x-trumba:weblink>
+		</item>
+	</channel>
+</rss>

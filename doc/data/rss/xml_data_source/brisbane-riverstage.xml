@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>Riverstage</title>
+		<link>http://www.brisbane.qld.gov.au/facilities-recreation/arts-and-culture/riverstage/whats-on-at-riverstage/index.htm</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>23 May 2013 03:49:40 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://www.brisbane.qld.gov.au/facilities-recreation/arts-and-culture/riverstage/whats-on-at-riverstage/index.htm</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.10129//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>Riverstage</xCal:calname>
+		<xCal:timezone>Australia/Brisbane</xCal:timezone>
+		<item>
+			<title>How Deep Is Your Love: A Tribute to the Gibb Brothers</title>
+			<description>Friday, July 19, 2013, 7:30pm &lt;br/&gt;&lt;br/&gt;&lt;img src="http://www.trumba.com/i/DgBxgWoQi6QzKDAUa6jr5nfy.jpg" width="132" height="116" /&gt;&lt;br/&gt;&lt;br/&gt;Queensland Music Festival, Brisbane City Council, Network Ten and The Courier-Mail and The Sunday Mail present&lt;br /&gt; &lt;br /&gt; HOW DEEP IS YOUR LOVE&lt;br /&gt; &lt;br /&gt; Over two grand evenings, Australia&amp;#39;s finest singers and musicians will gather to celebrate an extraordinary songbook.&lt;br /&gt; &lt;br /&gt; More than a tribute concert, How Deep Is Your Love is a soulful homage to the Gibb brothers, whose vision and versatility transcends the ordinary and whose talents contributed to a musical legacy unparalleled in the history of pop. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Ticketed Event &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Tickets can be purchased from &lt;a href="http://www.ticketmaster.com.au/" target="_blank"&gt;www.ticketmaster.com.au&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=244016&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Riverstage&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.47854,153.02899(Riverstage)" target="_blank"&gt;Riverstage, Gardens Point Road, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Age&lt;/b&gt;:&amp;nbsp;All Ages &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/facilities-recreation/arts-and-culture/riverstage/whats-on-at-riverstage/index.htm?trumbaEmbed=view%3devent%26eventid%3d105420724</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c11ufchrx5rzhccxgpm9w3wfgt</x-trumba:ealink>
+			<category>2013/07/19 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105420724</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105420723</x-trumba:masterid>
+			<xCal:summary>How Deep Is Your Love: A Tribute to the Gibb Brothers</xCal:summary>
+			<xCal:location>Riverstage</xCal:location>
+			<xCal:dtstart>2013-07-19T09:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-19T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-19T09:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-19T19:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Queensland Music Festival, Brisbane City Council, Network Ten and The Courier-Mail and The Sunday Mail present
+ 
+ HOW DEEP IS YOUR LOVE
+ 
+ Over two grand evenings, Australia's finest singers and musicians will gather to celebrate an extraordinary songbook.
+ 
+ More than a tribute concert, How Deep Is Your Love is a soulful homage to the Gibb brothers, whose vision and versatility transcends the ordinary and whose talents contributed to a musical legacy unparalleled in the history of pop.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105420724</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Ticketed Event</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBxgWoQi6QzKDAUa6jr5nfy.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Tickets can be purchased from www.ticketmaster.com.au</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Riverstage</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Riverstage, Gardens Point Road, Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Age" id="23562" type="text">All Ages</x-trumba:customfield>
+			<x-trumba:categorycalendar>Riverstage</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>How Deep Is Your Love: A Tribute to the Gibb Brothers</title>
+			<description>Saturday, July 20, 2013, 7:30pm &lt;br/&gt;&lt;br/&gt;&lt;img src="http://www.trumba.com/i/DgBxgWoQi6QzKDAUa6jr5nfy.jpg" width="132" height="116" /&gt;&lt;br/&gt;&lt;br/&gt;Queensland Music Festival, Brisbane City Council, Network Ten and The Courier-Mail and The Sunday Mail present&lt;br /&gt; &lt;br /&gt; HOW DEEP IS YOUR LOVE&lt;br /&gt; &lt;br /&gt; Over two grand evenings, Australia&amp;#39;s finest singers and musicians will gather to celebrate an extraordinary songbook.&lt;br /&gt; &lt;br /&gt; More than a tribute concert, How Deep Is Your Love is a soulful homage to the Gibb brothers, whose vision and versatility transcends the ordinary and whose talents contributed to a musical legacy unparalleled in the history of pop. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Ticketed Event &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Tickets can be purchased from &lt;a href="http://www.ticketmaster.com.au/" target="_blank"&gt;www.ticketmaster.com.au&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=244016&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Riverstage&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.47854,153.02899(Riverstage)" target="_blank"&gt;Riverstage, Gardens Point Road, Brisbane&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Age&lt;/b&gt;:&amp;nbsp;All Ages &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/facilities-recreation/arts-and-culture/riverstage/whats-on-at-riverstage/index.htm?trumbaEmbed=view%3devent%26eventid%3d105420725</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4hcxxme4fdw4hk46k7tzbuvhrt</x-trumba:ealink>
+			<category>2013/07/20 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105420725</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105420723</x-trumba:masterid>
+			<xCal:summary>How Deep Is Your Love: A Tribute to the Gibb Brothers</xCal:summary>
+			<xCal:location>Riverstage</xCal:location>
+			<xCal:dtstart>2013-07-20T09:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-20T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-20T09:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-20T19:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Queensland Music Festival, Brisbane City Council, Network Ten and The Courier-Mail and The Sunday Mail present
+ 
+ HOW DEEP IS YOUR LOVE
+ 
+ Over two grand evenings, Australia's finest singers and musicians will gather to celebrate an extraordinary songbook.
+ 
+ More than a tribute concert, How Deep Is Your Love is a soulful homage to the Gibb brothers, whose vision and versatility transcends the ordinary and whose talents contributed to a musical legacy unparalleled in the history of pop.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105420725</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Ticketed Event</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBxgWoQi6QzKDAUa6jr5nfy.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">Tickets can be purchased from www.ticketmaster.com.au</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Riverstage</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Riverstage, Gardens Point Road, Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Age" id="23562" type="text">All Ages</x-trumba:customfield>
+			<x-trumba:categorycalendar>Riverstage</x-trumba:categorycalendar>
+		</item>
+	</channel>
+</rss>

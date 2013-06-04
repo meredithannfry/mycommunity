@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>Brisbane s calendar Green events</title>
+		<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>27 May 2013 02:43:03 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.10129//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>Brisbane's calendar|Green events</xCal:calname>
+		<xCal:timezone>Australia/Brisbane</xCal:timezone>
+		<item>
+			<title>Create your own herb garden</title>
+			<description>Wednesday, June 12, 2013, 5:30&amp;nbsp;&amp;ndash;&amp;nbsp;7:30pm &lt;br/&gt;&lt;br/&gt;Herbs are some of the easiest and most productive plants you can grow. Great for beginner gardeners or those with limited space, this small group workshop gives you the opportunity to create your own mixed potted herb garden to take home and enjoy. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183866&amp;amp;objecttype=19243&amp;amp;key=0c9a00a509b98635661d6855a857efe5&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Coopers Plains Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=107+Orange+Grove+Rd%2c+Coopers+Plains%2c+QLD+4108" target="_blank"&gt;107 Orange Grove Rd, Coopers Plains 4108&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105155697</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=89w9ezr6dmcmu0yyug4h25fv9g</x-trumba:ealink>
+			<category>2013/06/12 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105155697</guid>
+			<xCal:summary>Create your own herb garden</xCal:summary>
+			<xCal:location>Coopers Plains Library</xCal:location>
+			<xCal:dtstart>2013-06-12T07:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-12T17:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-12T09:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-12T19:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Herbs are some of the easiest and most productive plants you can grow. Great for beginner gardeners or those with limited space, this small group workshop gives you the opportunity to create your own mixed potted herb garden to take home and enjoy. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105155697</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Coopers Plains Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">107 Orange Grove Rd, Coopers Plains 4108</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDjMTvqwGiEKxGhpjq1uGrM.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA3IPxd%2ABKmdEhXWR9T7t%2Ac.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>New Farm garden group</title>
+			<description>Friday, June 14, 2013, 3&amp;nbsp;&amp;ndash;&amp;nbsp;5pm &lt;br/&gt;&lt;br/&gt;Come along to our meeting and exchange gardening hints, tips and ideas with other garden enthusiasts. Meet in the Garden Room at the back of the library. Feel free to bring seeds, seedlings or other produce from your garden to share. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183883&amp;amp;objecttype=19243&amp;amp;key=8e9d87885cf4d813f10f1fd8914c7e54&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;New Farm Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=135+Sydney+St%2c+New+Farm%2c+QLD+4005" target="_blank"&gt;135 Sydney St, New Farm 4005&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d100494469</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0dw9j7x3kzx2xbj8h7jz3r9277</x-trumba:ealink>
+			<category>2013/06/14 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/100494469</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/99894059</x-trumba:masterid>
+			<xCal:summary>New Farm garden group</xCal:summary>
+			<xCal:location>New Farm Library</xCal:location>
+			<xCal:dtstart>2013-06-14T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-14T15:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-14T07:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-14T17:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Come along to our meeting and exchange gardening hints, tips and ideas with other garden enthusiasts. Meet in the Garden Room at the back of the library. Feel free to bring seeds, seedlings or other produce from your garden to share.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/100494469</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">New Farm Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">135 Sydney St, New Farm 4005</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAu7shIie-LriRyPQkVciHv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAoOoWF0Fcc8MMs4s72R2uD.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Breakfast with Alison Alexander</title>
+			<description>Saturday, June 15, 2013, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9:30am &lt;br/&gt;&lt;br/&gt;Enjoy&amp;#160;breakfast with Alison Alexander as part of celebrations for the official opening of the new look Mitchelton Library.&lt;br /&gt; &lt;br /&gt; Alison will prepare carrot, fetta and lemon pancakes for breakfast at Mitchelton Library. Have&amp;#160;a tea or coffee with&amp;#160;some of Alison&amp;#39;s amazing savoury pancakes.&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484268</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g6t56neazepvmadwasn15ayk4k</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484268</guid>
+			<xCal:summary>Breakfast with Alison Alexander</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-14T20:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T06:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-14T23:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T09:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Enjoy&amp;nbsp;breakfast with Alison Alexander as part of celebrations for the official opening of the new look Mitchelton Library.
+ 
+ Alison will prepare carrot, fetta and lemon pancakes for breakfast at Mitchelton Library. Have&amp;nbsp;a tea or coffee with&amp;nbsp;some of Alison's amazing savoury pancakes.&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484268</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="150" imageHeight="150">http://www.trumba.com/i/DgAxaIUUP-5CSwCtFwp0s12a.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Gardening workshops for children</title>
+			<description>Saturday, June 15, 2013, 8:30am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;Celebrate the official opening of the new look Mitchelton Library with children&amp;#39;s&amp;#160;gardening activities at the library.&lt;br /&gt; &lt;br /&gt; Join local community group, Mitchelton Organic Gardeners&amp;#160;to learn how to correctly pot a seedling and ways you can help your plant to grow.&lt;br /&gt; &lt;br /&gt; Children can join the fun at any stage throughout the morning. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484212</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8hee5e9npj47a7gnwbbfc0xkd8</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484212</guid>
+			<xCal:summary>Gardening workshops for children</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-14T22:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T08:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate the official opening of the new look Mitchelton Library with children's&amp;nbsp;gardening activities at the library.
+ 
+ Join local community group, Mitchelton Organic Gardeners&amp;nbsp;to learn how to correctly pot a seedling and ways you can help your plant to grow.
+ 
+ Children can join the fun at any stage throughout the morning.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484212</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBktC9JeK6f8yA9Q9H1QcHH.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Live performance by The Reclaimers</title>
+			<description>Saturday, June 15, 2013, 9&amp;nbsp;&amp;ndash;&amp;nbsp;9:20am &lt;br/&gt;&lt;br/&gt;Enjoy a live performance by &lt;em&gt;The Reclaimers &lt;/em&gt;as part of celebrations&amp;#160;for&amp;#160;the official opening of the new look Mitchelton Library.&lt;br /&gt; &lt;br /&gt; &lt;em&gt;The Reclaimers &lt;/em&gt;street orchestra showcases unique hand-made instruments made from &amp;#39;reclaimed&amp;#39; materials. The street orchestra mostly performs folk music, featuring string instruments, guitars and percussion. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484190</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sc8n2a5y5dwuf7g9c0ugmbe147</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484190</guid>
+			<xCal:summary>Live performance by The Reclaimers</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-14T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-14T23:20:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T09:20:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Enjoy a live performance by &lt;em&gt;The Reclaimers &lt;/em&gt;as part of celebrations&amp;nbsp;for&amp;nbsp;the official opening of the new look Mitchelton Library.
+ 
+ &lt;em&gt;The Reclaimers &lt;/em&gt;street orchestra showcases unique hand-made instruments made from 'reclaimed' materials. The street orchestra mostly performs folk music, featuring string instruments, guitars and percussion.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484190</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBwRQ5s4HUwxBwN0yW3hMDM.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>No-dig gardening and seasonal planting</title>
+			<description>Saturday, June 15, 2013, 9:30&amp;nbsp;&amp;ndash;&amp;nbsp;11:30am &lt;br/&gt;&lt;br/&gt;Learn how to design, build and manage a seasonal, no-dig garden bed. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;To book phone Claire on 0403 935 014. &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200264&amp;amp;objecttype=19243&amp;amp;key=d238e5ac3f23f6a4171c455a3c45bcbd&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane Botanic Gardens, Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.476731,152.975392(Brisbane+Botanic+Gardens%2c+Mt+Coot-tha)" target="_blank"&gt;Mount Coot-tha Road, Mount Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105251612</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4ame2wtdt414m6ekb18y1mn6vs</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105251612</guid>
+			<xCal:summary>No-dig gardening and seasonal planting</xCal:summary>
+			<xCal:location>Brisbane Botanic Gardens, Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2013-06-14T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T09:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T01:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T11:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Learn how to design, build and manage a seasonal, no-dig garden bed.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105251612</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgB5eZU%2AEOUN4TgHoilC2SWC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">To book phone Claire on 0403 935 014.</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane Botanic Gardens, Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Mount Coot-tha Road, Mount Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9uPj1ILYcLB4ucMrHxhSq.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Brisbane Botanic Gardens</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Live performance by The Reclaimers</title>
+			<description>Saturday, June 15, 2013, 9:50&amp;nbsp;&amp;ndash;&amp;nbsp;10:10am &lt;br/&gt;&lt;br/&gt;Enjoy a live performance by &lt;em&gt;The Reclaimers &lt;/em&gt;as part of celebrations&amp;#160;for&amp;#160;the official opening of the new look Mitchelton Library.&lt;br /&gt; &lt;br /&gt; &lt;em&gt;The Reclaimers &lt;/em&gt;street orchestra showcases unique hand-made instruments made from &amp;#39;reclaimed&amp;#39; materials. The street orchestra mostly performs folk music, featuring string instruments, guitars and percussion. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484191</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mcggakbhms6g8tam1utrhnun5k</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484191</guid>
+			<xCal:summary>Live performance by The Reclaimers</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-14T23:50:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T09:50:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T00:10:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T10:10:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Enjoy a live performance by &lt;em&gt;The Reclaimers &lt;/em&gt;as part of celebrations&amp;nbsp;for&amp;nbsp;the official opening of the new look Mitchelton Library.
+ 
+ &lt;em&gt;The Reclaimers &lt;/em&gt;street orchestra showcases unique hand-made instruments made from 'reclaimed' materials. The street orchestra mostly performs folk music, featuring string instruments, guitars and percussion.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484191</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBwRQ5s4HUwxBwN0yW3hMDM.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Alison Alexander cooking with citrus</title>
+			<description>Saturday, June 15, 2013, 10&amp;nbsp;&amp;ndash;&amp;nbsp;11am &lt;br/&gt;&lt;br/&gt;Celebrate the official opening of the new look Mitchelton Library with Alison Alexander.&lt;br /&gt; &lt;br /&gt; Citrus fruits are versatile in the kitchen and can be used&amp;#160;in savoury and sweet dishes. Taste some great recipes as&amp;#160;food consultant Alison Alexander talks about how to use&amp;#160;these readily available winter fruits in the kitchen.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Participants will receive a collection of delicious recipes to try at home. &amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484226</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wgfjc62hk7htufm9rcsekggsp0</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484226</guid>
+			<xCal:summary>Alison Alexander cooking with citrus</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate the official opening of the new look Mitchelton Library with Alison Alexander.
+ 
+ Citrus fruits are versatile in the kitchen and can be used&amp;nbsp;in savoury and sweet dishes. Taste some great recipes as&amp;nbsp;food consultant Alison Alexander talks about how to use&amp;nbsp;these readily available winter fruits in the kitchen.
+ 
+ 
+ Participants will receive a collection of delicious recipes to try at home. &amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484226</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free.</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCHL7WNGhovgVZ5TpkAaE%2AQ.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Best native plants that improve garden wildlife</title>
+			<description>Saturday, June 15, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183882&amp;amp;objecttype=19243&amp;amp;key=7ec4204d928f8104a60c6f2d36359ae6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mt Ommaney Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Dandenong+Rd%2c+Mount+Ommaney%2c+QLD+4074" target="_blank"&gt;Mt Ommaney Shopping Centre, 171 Dandenong Rd, Mt Ommaney 4074&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105084882</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g0yuzyfw92fsg3r85b4y58zdw9</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105084882</guid>
+			<xCal:summary>Best native plants that improve garden wildlife</xCal:summary>
+			<xCal:location>Mt Ommaney Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105084882</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mt Ommaney Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Mt Ommaney Shopping Centre, 171 Dandenong Rd, Mt Ommaney 4074</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDzPz%2AjCP5L-57H1JEDsq2I.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAoOoWF0Fcc8MMs4s72R2uD.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Citrus in the suburbs with Annette McFarlane</title>
+			<description>Saturday, June 15, 2013, 10&amp;nbsp;&amp;ndash;&amp;nbsp;10:30am &lt;br/&gt;&lt;br/&gt;Celebrate the official opening of the new look Mitchelton Library with Annette McFarlane.&lt;br /&gt; &lt;br /&gt; Fancy the idea of picking your own lemons and limes fresh from the tree? ABC Radio gardening presenter, Annette McFarlane will reveal all you need to know about growing your own citrus fruits during a stroll through the community citrus garden at Mitchelton Library. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484222</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4bm5xyjgzymty1r9rex4dhc45m</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484222</guid>
+			<xCal:summary>Citrus in the suburbs with Annette McFarlane</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T00:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T10:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate the official opening of the new look Mitchelton Library with Annette McFarlane.
+ 
+ Fancy the idea of picking your own lemons and limes fresh from the tree? ABC Radio gardening presenter, Annette McFarlane will reveal all you need to know about growing your own citrus fruits during a stroll through the community citrus garden at Mitchelton Library.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484222</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free.</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAmT7OPWP8ZMkpzwj-8Bips.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>No-dig gardening</title>
+			<description>Saturday, June 15, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;This workshop is a practical demonstration of how to create a no-dig garden. No-dig gardening is renowned for being low-labour and low-cost, and an extremely simple way to create a healthy, functioning garden bed in no time. Learn step by step how to build the garden, as well as the science behind its success. Presented by Growing Communities. Light refreshments will be served. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183868&amp;amp;objecttype=19243&amp;amp;key=0b5236de0a8aa12517e1855da76d0e4e&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Everton Park Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.405316,152.990411(Everton+Park+Library)" target="_blank"&gt;561 South Pine Road, Everton Park 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105155626</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gzhghsw1v8nrbfjc1mfp1vrcez</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105155626</guid>
+			<xCal:summary>No-dig gardening</xCal:summary>
+			<xCal:location>Everton Park Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>This workshop is a practical demonstration of how to create a no-dig garden. No-dig gardening is renowned for being low-labour and low-cost, and an extremely simple way to create a healthy, functioning garden bed in no time. Learn step by step how to build the garden, as well as the science behind its success. Presented by Growing Communities. Light refreshments will be served. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105155626</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Everton Park Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">561 South Pine Road, Everton Park 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDzPz%2AjCP5L-57H1JEDsq2I.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAoOoWF0Fcc8MMs4s72R2uD.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lemons don't just grow on trees with Annette McFarlane</title>
+			<description>Saturday, June 15, 2013, 10:30&amp;nbsp;&amp;ndash;&amp;nbsp;11am &lt;br/&gt;&lt;br/&gt;Celebrate the official opening of the new look Mitchelton Library with Annette McFarlane.&lt;br /&gt; &lt;br /&gt; Lemongrass, lemon verbena, lemon balm, native lemon myrtle, thyme and basil are just some of the lemon-flavoured plants that grow well in Brisbane. ABC Radio gardening presenter, Annette McFarlane will demonstrate how to propagate, grow and use lemon-scented plants and other complimentary herbs. &amp;#160;&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484230</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gvny0rvrktf9924frg66e1vdmu</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484230</guid>
+			<xCal:summary>Lemons don't just grow on trees with Annette McFarlane</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-15T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T10:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate the official opening of the new look Mitchelton Library with Annette McFarlane.
+ 
+ Lemongrass, lemon verbena, lemon balm, native lemon myrtle, thyme and basil are just some of the lemon-flavoured plants that grow well in Brisbane. ABC Radio gardening presenter, Annette McFarlane will demonstrate how to propagate, grow and use lemon-scented plants and other complimentary herbs. &amp;nbsp;&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484230</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free.</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgB6DYBaeczrTPEppo6Iv4Ey.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Recycled craft activities for children</title>
+			<description>Saturday, June 15, 2013, 8:30pm&amp;nbsp;&amp;ndash;&amp;nbsp;12am &lt;br/&gt;&lt;br/&gt;Celebrate the official opening of the new look Mitchelton Library with&amp;#160;recycled craft activities for children&amp;#160;in the library.&lt;br /&gt; &lt;br /&gt; Hosted by Bec Hollis and Ellie Beck, children can weave on a loom and decorate woolen snowflakes using recycled yarn. Children will be encouraged to help decorate the community citrus garden by displaying their creations along the fence of the garden at the front entrance to Mitchelton Library.&lt;br /&gt; &lt;br /&gt; Children can join the fun at any stage throughout the morning.&amp;#160;&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183877&amp;amp;objecttype=19243&amp;amp;key=0488c49cd9f58953a1f9809646cc4b77&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Mitchelton Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=37+Heliopolis+Parade%2c+Mitchelton%2c+QLD+4053" target="_blank"&gt;37 Heliopolis Pde, Mitchelton 4053&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Not required. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105484185</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cdp677r3bz2vky73eb6mecpkvj</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105484185</guid>
+			<xCal:summary>Recycled craft activities for children</xCal:summary>
+			<xCal:location>Mitchelton Library</xCal:location>
+			<xCal:dtstart>2013-06-15T10:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T20:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Celebrate the official opening of the new look Mitchelton Library with&amp;nbsp;recycled craft activities for children&amp;nbsp;in the library.
+ 
+ Hosted by Bec Hollis and Ellie Beck, children can weave on a loom and decorate woolen snowflakes using recycled yarn. Children will be encouraged to help decorate the community citrus garden by displaying their creations along the fence of the garden at the front entrance to Mitchelton Library.
+ 
+ Children can join the fun at any stage throughout the morning.&amp;nbsp;&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105484185</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Mitchelton Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">37 Heliopolis Pde, Mitchelton 4053</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Not required.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgCEsxM1TnmF33vEvbnCcsBM.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Create your own herb garden</title>
+			<description>Wednesday, June 19, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;Herbs are some of the easiest and most productive plants you can grow. Great for beginner gardeners or those with limited space, this workshop provides you with the opportunity to created your own mixed potted herb garden to take home and enjoy. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183891&amp;amp;objecttype=19243&amp;amp;key=517cf9411c8602fbe44e87ce01e96e66&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Zillmere Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Jennings+St+%26+Zillmere+Rd%2c+Zillmere%2c+QLD+4034" target="_blank"&gt;Cnr Jennings St &amp;amp; Zillmere Rd, Zillmere 4034&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105066121</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cfx7cuv4z5jypfh0mh453rx1dv</x-trumba:ealink>
+			<category>2013/06/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105066121</guid>
+			<xCal:summary>Create your own herb garden</xCal:summary>
+			<xCal:location>Zillmere Library</xCal:location>
+			<xCal:dtstart>2013-06-19T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-19T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-19T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-19T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Herbs are some of the easiest and most productive plants you can grow. Great for beginner gardeners or those with limited space, this workshop provides you with the opportunity to created your own mixed potted herb garden to take home and enjoy. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105066121</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Zillmere Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Cnr Jennings St &amp; Zillmere Rd, Zillmere 4034</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDNoPIZ8QqkAoZD8h48LDpo.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBmhRhJurxebu5920p%2AycnB.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Low cost gardening</title>
+			<description>Saturday, June 22, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;Learn how to create a great garden without spending a fortune and help reduce your carbon footprint. Make your own fertiliser and garden sprays. Discover how to get plants, mulch, labour and much more for free. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183620&amp;amp;objecttype=19243&amp;amp;key=f832aadb41dbaf988fc2f36ce2ad9d08&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Ashgrove Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=87+Amarina+Ave%2c+Ashgrove+West%2c+QLD+4060" target="_blank"&gt;87 Amarina Ave, Ashgrove 4060&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105155517</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0j8sc4subckaajypbbzepaw7sh</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105155517</guid>
+			<xCal:summary>Low cost gardening</xCal:summary>
+			<xCal:location>Ashgrove Library</xCal:location>
+			<xCal:dtstart>2013-06-22T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Learn how to create a great garden without spending a fortune and help reduce your carbon footprint. Make your own fertiliser and garden sprays. Discover how to get plants, mulch, labour and much more for free. Presented by ABC Radio gardening presenter, Annette McFarlane. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105155517</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Ashgrove Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">87 Amarina Ave, Ashgrove 4060</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBp2WziN58qg3PUOBMsBhpT.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAoOoWF0Fcc8MMs4s72R2uD.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Create your own herb garden</title>
+			<description>Saturday, June 29, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Herbs are some of the easiest and most productive plants to grow. This workshop provides you with the opportunity to create your own mixed potted herb garden to take home and enjoy. Presented by ABC radio gardening presenter, Annette McFarlane. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183883&amp;amp;objecttype=19243&amp;amp;key=8e9d87885cf4d813f10f1fd8914c7e54&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;New Farm Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=135+Sydney+St%2c+New+Farm%2c+QLD+4005" target="_blank"&gt;135 Sydney St, New Farm 4005&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105084743</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wb8n8r8dgh4cany2r276vrre20</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105084743</guid>
+			<xCal:summary>Create your own herb garden</xCal:summary>
+			<xCal:location>New Farm Library</xCal:location>
+			<xCal:dtstart>2013-06-29T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Herbs are some of the easiest and most productive plants to grow. This workshop provides you with the opportunity to create your own mixed potted herb garden to take home and enjoy. Presented by ABC radio gardening presenter, Annette McFarlane. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105084743</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">New Farm Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">135 Sydney St, New Farm 4005</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAu7shIie-LriRyPQkVciHv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAoOoWF0Fcc8MMs4s72R2uD.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Sensual pleasures of the garden</title>
+			<description>Saturday, June 29, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;A garden can be more than something to look at, offering sensory delight from fragrance and soft velvety or spiky foliage. Design your garden with the senses of smell, touch and taste in mind, including how to make a fragrant herb trail to amble through. Find how your planting can enhance pleasure in your garden. Presented by Paul Plant, editor of subTropical Gardening magazine. Bookings essential. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=183869&amp;amp;objecttype=19243&amp;amp;key=5d075b53bd44ad4856fb89db19c9caa3&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Fairfield Library&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Fairfield+Rd%2c+Fairfield%2c+QLD+4103" target="_blank"&gt;Fairfield Gardens Shopping Centre, Fairfield Rd, Fairfield Q 4103&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;Required. Please phone (07) 3403 8888 to reserve your place. &lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105172109</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4f4ksb290ghzh19u2zv9cu5t8d</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105172109</guid>
+			<xCal:summary>Sensual pleasures of the garden</xCal:summary>
+			<xCal:location>Fairfield Library</xCal:location>
+			<xCal:dtstart>2013-06-29T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>A garden can be more than something to look at, offering sensory delight from fragrance and soft velvety or spiky foliage. Design your garden with the senses of smell, touch and taste in mind, including how to make a fragrant herb trail to amble through. Find how your planting can enhance pleasure in your garden. Presented by Paul Plant, editor of subTropical Gardening magazine. Bookings essential.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105172109</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Library events</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Fairfield Library</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Fairfield Gardens Shopping Centre, Fairfield Rd, Fairfield Q 4103</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgBqGz-Dki80SST1xdspaTpD.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22534" type="text">Required. Please phone (07) 3403 8888 to reserve your place.</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgDevggldUaTrJ9QFSojY2V0.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Library events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Far OUT Forest Festival</title>
+			<description>Wednesday, July 3, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Brisbane City Council invites you to free school holiday fun in the gardens. Join us for:&lt;br /&gt; &lt;ul&gt; &lt;li&gt;African drumming (Japanese Garden, 10am-1pm) &lt;/li&gt;&lt;li&gt;Wearable art (Japanese Garden, 11am-1pm) &lt;/li&gt;&lt;li&gt;Insect discovery (Japanese Garden) &lt;/li&gt;&lt;li&gt;Traditional Aboriginal and Torres Strait Islander games (Lawn near Bonsai House) &lt;/li&gt;&lt;li&gt;Bush string making (Lawn near Bonsai House) &lt;/li&gt;&lt;li&gt;Worm magic (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Bats and batty art (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Ab-fab Fibonacci (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Fantastic forest (Wedding Lawn 1) &lt;/li&gt;&lt;li&gt;Storytime (Chidlren&amp;#39;s Trail Lookout near koala, 11am-1pm) &lt;/li&gt;&lt;li&gt;Yarn tree show (Bandstand stage, 12-12:45pm) &lt;/li&gt;&lt;li&gt;Roving Knitted Nancy (10:30-11:15am) &lt;/li&gt;&lt;li&gt;Hildegard on safari (1:15-2pm) &lt;/li&gt;&lt;/ul&gt; &lt;br /&gt; Parking is limited. Catch a free shuttle bus from Bus Stop 23, Toowong Village, Sherwood Road. Buses leave every 15 minutes from Toowong to the Brisbane Botanic Gardens from 9:30am to 2:15 and from the Brisbane Botanic Gardens to Toowong from 9:45 to 2:15. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;No bookings required. Call (07) 3403 888 for more information. &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200264&amp;amp;objecttype=19243&amp;amp;key=d238e5ac3f23f6a4171c455a3c45bcbd&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane Botanic Gardens, Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.476731,152.975392(Brisbane+Botanic+Gardens%2c+Mt+Coot-tha)" target="_blank"&gt;Mount Coot-tha Road, Mount Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105644642</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g1c2d6mn7cctn2pa7v76t78aay</x-trumba:ealink>
+			<category>2013/07/03 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105644642</guid>
+			<xCal:summary>Far OUT Forest Festival</xCal:summary>
+			<xCal:location>Brisbane Botanic Gardens, Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2013-07-03T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-03T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-03T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-03T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Brisbane City Council invites you to free school holiday fun in the gardens. Join us for:
+ &lt;ul&gt; 	&lt;li&gt;African drumming (Japanese Garden, 10am-1pm)&lt;/li&gt; 	&lt;li&gt;Wearable art (Japanese Garden, 11am-1pm)&lt;/li&gt; 	&lt;li&gt;Insect discovery (Japanese Garden)&lt;/li&gt; 	&lt;li&gt;Traditional Aboriginal and Torres Strait Islander games (Lawn near Bonsai House)&lt;/li&gt; 	&lt;li&gt;Bush string making (Lawn near Bonsai House)&lt;/li&gt; 	&lt;li&gt;Worm magic (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Bats and batty art (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Ab-fab Fibonacci (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Fantastic forest (Wedding Lawn 1)&lt;/li&gt; 	&lt;li&gt;Storytime (Chidlren's Trail Lookout near koala, 11am-1pm)&lt;/li&gt; 	&lt;li&gt;Yarn tree show (Bandstand stage, 12-12:45pm)&lt;/li&gt; 	&lt;li&gt;Roving Knitted Nancy (10:30-11:15am)&lt;/li&gt; 	&lt;li&gt;Hildegard on safari (1:15-2pm)&lt;/li&gt; &lt;/ul&gt; 
+ Parking is limited. Catch a free shuttle bus from Bus Stop 23, Toowong Village, Sherwood Road. Buses leave every 15 minutes from Toowong to the Brisbane Botanic Gardens from 9:30am to 2:15 and from the Brisbane Botanic Gardens to Toowong from 9:45 to 2:15.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105644642</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAwq5mAKwica-0FF6IyGg4i.png</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">No bookings required. Call (07) 3403 888 for more information.</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane Botanic Gardens, Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Mount Coot-tha Road, Mount Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9uPj1ILYcLB4ucMrHxhSq.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Brisbane Botanic Gardens</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Far OUT Forest Festival</title>
+			<description>Thursday, July 4, 2013, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Brisbane City Council invites you to free school holiday fun in the gardens. Join us for:&lt;br /&gt; &lt;ul&gt; &lt;li&gt;African drumming (Japanese Garden, 10am-1pm) &lt;/li&gt;&lt;li&gt;Wearable art (Japanese Garden, 11am-1pm) &lt;/li&gt;&lt;li&gt;Insect discovery (Japanese Garden) &lt;/li&gt;&lt;li&gt;Traditional Aboriginal and Torres Strait Islander games (Lawn near Bonsai House) &lt;/li&gt;&lt;li&gt;Bush string making (Lawn near Bonsai House) &lt;/li&gt;&lt;li&gt;Worm magic (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Bats and batty art (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Ab-fab Fibonacci (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Fantastic forest (Wedding Lawn 1) &lt;/li&gt;&lt;li&gt;Storytime (Chidlren&amp;#39;s Trail Lookout near koala, 11am-1pm) &lt;/li&gt;&lt;li&gt;Touch table discovery! (Bandstand lawn) &lt;/li&gt;&lt;li&gt;Rapt in reptiles (Bandstand stage 10:30-11am, 11:30am-12 noon) &lt;/li&gt;&lt;li&gt;Eco-circus extravaganza (GOLD &amp;#39;n Kids on Wedding Lawn 2, 11am-1pm) &lt;/li&gt;&lt;li&gt;Sunnybank Brass II and Smartypants the Clown (Bandstage stage, 12:30-2pm) &lt;/li&gt;&lt;/ul&gt; Parking is limited. Catch a free shuttle bus from Bus Stop 23, Toowong Village, Sherwood Road. Buses leave every 15 minutes from Toowong to the Brisbane Botanic Gardens from 9:30am to 2:15 and from the Brisbane Botanic Gardens to Toowong from 9:45 to 2:15. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Bookings&lt;/b&gt;:&amp;nbsp;No bookings required. Call (07) 3403 888 for more information. &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200264&amp;amp;objecttype=19243&amp;amp;key=d238e5ac3f23f6a4171c455a3c45bcbd&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane Botanic Gardens, Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.476731,152.975392(Brisbane+Botanic+Gardens%2c+Mt+Coot-tha)" target="_blank"&gt;Mount Coot-tha Road, Mount Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/type/Green-events/index.htm?trumbaEmbed=view%3devent%26eventid%3d105644666</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4r375v1zx69ayhpcya1a95seju</x-trumba:ealink>
+			<category>2013/07/04 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105644666</guid>
+			<xCal:summary>Far OUT Forest Festival</xCal:summary>
+			<xCal:location>Brisbane Botanic Gardens, Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2013-07-04T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-04T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-04T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-04T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Brisbane City Council invites you to free school holiday fun in the gardens. Join us for:
+ &lt;ul&gt; 	&lt;li&gt;African drumming (Japanese Garden, 10am-1pm)&lt;/li&gt; 	&lt;li&gt;Wearable art (Japanese Garden, 11am-1pm)&lt;/li&gt; 	&lt;li&gt;Insect discovery (Japanese Garden)&lt;/li&gt; 	&lt;li&gt;Traditional Aboriginal and Torres Strait Islander games (Lawn near Bonsai House)&lt;/li&gt; 	&lt;li&gt;Bush string making (Lawn near Bonsai House)&lt;/li&gt; 	&lt;li&gt;Worm magic (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Bats and batty art (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Ab-fab Fibonacci (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Fantastic forest (Wedding Lawn 1)&lt;/li&gt; 	&lt;li&gt;Storytime (Chidlren's Trail Lookout near koala, 11am-1pm)&lt;/li&gt; 	&lt;li&gt;Touch table discovery! (Bandstand lawn)&lt;/li&gt; 	&lt;li&gt;Rapt in reptiles (Bandstand stage 10:30-11am, 11:30am-12 noon)&lt;/li&gt; 	&lt;li&gt;Eco-circus extravaganza (GOLD 'n Kids on Wedding Lawn 2, 11am-1pm)&lt;/li&gt; 	&lt;li&gt;Sunnybank Brass II and Smartypants the Clown (Bandstage stage, 12:30-2pm)&lt;/li&gt; &lt;/ul&gt; Parking is limited. Catch a free shuttle bus from Bus Stop 23, Toowong Village, Sherwood Road. Buses leave every 15 minutes from Toowong to the Brisbane Botanic Gardens from 9:30am to 2:15 and from the Brisbane Botanic Gardens to Toowong from 9:45 to 2:15.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105644666</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgAwq5mAKwica-0FF6IyGg4i.png</x-trumba:customfield>
+			<x-trumba:customfield name="Bookings" id="22732" type="text">No bookings required. Call (07) 3403 888 for more information.</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brisbane Botanic Gardens, Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Mount Coot-tha Road, Mount Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Image" id="22856" type="uri" imageWidth="200" imageHeight="177">http://www.trumba.com/i/DgA9uPj1ILYcLB4ucMrHxhSq.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Brisbane Botanic Gardens</x-trumba:categorycalendar>
+		</item>
+	</channel>
+</rss>

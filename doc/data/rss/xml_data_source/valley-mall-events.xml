@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>Brisbane s calendar Valley Malls</title>
+		<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>02 Jun 2013 09:24:32 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>http://trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.10129//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>Brisbane's calendar|Valley Malls</xCal:calname>
+		<xCal:timezone>Australia/Brisbane</xCal:timezone>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, June 8, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246629</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mbambcrxz8xnuwh4y6s48ke046</x-trumba:ealink>
+			<category>2013/06/08 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246629</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-07T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-08T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-08T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-08T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246629</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Saturday, June 8, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Saturday is Layla Klinkert. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568549</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sdyjtfzejbps7uzy84eyx90h0r</x-trumba:ealink>
+			<category>2013/06/08 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568549</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-08T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-08T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-08T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-08T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Saturday is Layla Klinkert.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568549</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Asian Cooking Classes</title>
+			<description>Saturday, June 8, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1:30pm &lt;br/&gt;&lt;br/&gt;Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105197495</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=42mer3hepbg5he8bu7n3xg56uw</x-trumba:ealink>
+			<category>2013/06/08 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105197495</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105197489</x-trumba:masterid>
+			<xCal:summary>Asian Cooking Classes</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-08T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-08T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-08T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-08T13:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105197495</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgAk8byt6BGWb9Zyaf10MLYl.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tai Chi Class</title>
+			<description>Saturday, June 8, 2013, 1:30&amp;nbsp;&amp;ndash;&amp;nbsp;2:30pm &lt;br/&gt;&lt;br/&gt;Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568501</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ccb64pf5xv9sp42cm66f9vwte1</x-trumba:ealink>
+			<category>2013/06/08 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568501</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/104521936</x-trumba:masterid>
+			<xCal:summary>Tai Chi Class</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-08T03:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-08T13:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-08T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-08T14:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568501</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCFQa9QDw%2AFcAwcIKnR5M%2AI.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, June 9, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246579</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=81ck43zbbccwdw7nbg8wu42phy</x-trumba:ealink>
+			<category>2013/06/09 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246579</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-08T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-09T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-09T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-09T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246579</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Sunday, June 9, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Sunday is Drew Wilson. At the end of 2011, Drew was awarded a $10,000 ARTS QLD Grant to record a new album and won the APG Powerstage Competition and another $10,000 in prize money. This has funded his 3rd release, the 13 track Album &amp;quot;Carousel&amp;quot;. The album was recorded in an un-leased shopfront on the Sunshine Coast as a fishbowl project where the public could walk past and watch the recording in progress. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568794</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4usdewpyu9jya3w24esz16gjhc</x-trumba:ealink>
+			<category>2013/06/09 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568794</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-09T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-09T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-09T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-09T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Sunday is Drew Wilson. At the end of 2011, Drew was awarded a $10,000 ARTS QLD Grant to record a new album and won the APG Powerstage Competition and another $10,000 in prize money. This has funded his 3rd release, the 13 track Album "Carousel". The album was recorded in an un-leased shopfront on the Sunshine Coast as a fishbowl project where the public could walk past and watch the recording in progress.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568794</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, June 15, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246630</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=m9xz5yd0nag2vghdxcascmkv30</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246630</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-14T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246630</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Saturday, June 15, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Saturday is Pat Tierney. Brisbane based Pat Tierney is getting set to release his second EP with the first single &amp;#39;Take on the world&amp;#39; released on New Year&amp;#39;s Day 2012. Pat played over fifty shows in 2011, including the annual 2High Festival at Brisbane&amp;#39;s Powerhouse and a headline slot at Currumbin&amp;#39;s Soundlounge. His latest offering is the follow up to his debut EP &amp;#39;Friends &amp;amp; Lovers.&amp;#39; His sound continues to develop with his slide guitar in hand and a unique mix of folk, blues &amp;amp; reggae. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568849</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mk8me880n7mh9m94jfh12059fz</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568849</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-15T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Saturday is Pat Tierney. Brisbane based Pat Tierney is getting set to release his second EP with the first single 'Take on the world' released on New Year's Day 2012. Pat played over fifty shows in 2011, including the annual 2High Festival at Brisbane's Powerhouse and a headline slot at Currumbin's Soundlounge. His latest offering is the follow up to his debut EP 'Friends &amp;amp; Lovers.' His sound continues to develop with his slide guitar in hand and a unique mix of folk, blues &amp;amp; reggae.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568849</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Asian Cooking Classes</title>
+			<description>Saturday, June 15, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1:30pm &lt;br/&gt;&lt;br/&gt;Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105197496</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mruk3knmkph7nt5g3scukc512w</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105197496</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105197489</x-trumba:masterid>
+			<xCal:summary>Asian Cooking Classes</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-15T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T13:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105197496</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgAk8byt6BGWb9Zyaf10MLYl.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tai Chi Class</title>
+			<description>Saturday, June 15, 2013, 1:30&amp;nbsp;&amp;ndash;&amp;nbsp;2:30pm &lt;br/&gt;&lt;br/&gt;Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568502</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mj0z4u7jnhzfsbfccg39zc7nt0</x-trumba:ealink>
+			<category>2013/06/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568502</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/104521936</x-trumba:masterid>
+			<xCal:summary>Tai Chi Class</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-15T03:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-15T13:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-15T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-15T14:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568502</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCFQa9QDw%2AFcAwcIKnR5M%2AI.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, June 16, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246580</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mwn9c27aua48pd4sr2ys0cjua9</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246580</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-15T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246580</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Sunday, June 16, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Sunday is Felicity Lawless. As a major songwriter for Anarchist Duck and Bertha Control, Flawless perhaps is better known for her funk, reggae and rhymes. Stripped from her bands, she sings a new breed of reggaefunk with flamenco elements. Her songs tell the tales of her adventures through a number of lifetimes. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568861</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=06sv3cug58j3zhrt82esr7ma0u</x-trumba:ealink>
+			<category>2013/06/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568861</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-16T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-16T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-16T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-16T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Sunday is Felicity Lawless. As a major songwriter for Anarchist Duck and Bertha Control, Flawless perhaps is better known for her funk, reggae and rhymes. Stripped from her bands, she sings a new breed of reggaefunk with flamenco elements. Her songs tell the tales of her adventures through a number of lifetimes.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568861</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, June 22, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246631</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sp6x0rbuktuc7y2ddy2mvnn098</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246631</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-21T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246631</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Saturday, June 22, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Saturday is Hannah Rosa. Hannah Rosa has potent combination of catchy melodies and warm stage presence. Frequently compared to artists such as Gabrielle Aplin, Missy Higgins and Julia Stone, Hannah&amp;#8217;s songs have been described as &amp;#8220;beautifully crafted, honest and personal&amp;#8221; (Roselon, AAA Backstage 2011). Her debut EP, featuring YouTube hit (original song &amp;#8220;You Chose Me&amp;#8221;), is due for release mid 2013. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568864</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wuxf9phw6kwzevubx4n4y6yrxa</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568864</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-22T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Saturday is Hannah Rosa. Hannah Rosa has potent combination of catchy melodies and warm stage presence. Frequently compared to artists such as Gabrielle Aplin, Missy Higgins and Julia Stone, Hannah’s songs have been described as “beautifully crafted, honest and personal” (Roselon, AAA Backstage 2011). Her debut EP, featuring YouTube hit (original song “You Chose Me”), is due for release mid 2013.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568864</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Asian Cooking Classes</title>
+			<description>Saturday, June 22, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1:30pm &lt;br/&gt;&lt;br/&gt;Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105197497</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=40z1ygpe2myhvw07tamm37h210</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105197497</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105197489</x-trumba:masterid>
+			<xCal:summary>Asian Cooking Classes</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-22T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T13:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105197497</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgAk8byt6BGWb9Zyaf10MLYl.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tai Chi Class</title>
+			<description>Saturday, June 22, 2013, 1:30&amp;nbsp;&amp;ndash;&amp;nbsp;2:30pm &lt;br/&gt;&lt;br/&gt;Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568503</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=49ns1b9561y1rh1fvpxrhap7ca</x-trumba:ealink>
+			<category>2013/06/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568503</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/104521936</x-trumba:masterid>
+			<xCal:summary>Tai Chi Class</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-22T03:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-22T13:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-22T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-22T14:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568503</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCFQa9QDw%2AFcAwcIKnR5M%2AI.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, June 23, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246581</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c32vfh0hh579e27dbsbvep47kt</x-trumba:ealink>
+			<category>2013/06/23 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246581</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-22T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-23T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-23T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-23T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246581</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Sunday, June 23, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Sunday is Lauren Lucille. Lauren&amp;#8217;s songwriting started at the age of ten and, through her teens, Lauren was writing folk and pop songs on guitar and piano. Performing at festivals and venues around Australia for the past 6 years, Lauren is now acknowledged by her peers as a great composer and performer and was a finalist in the 2012 QMusic Awards for one of her jazz compositions from her new and well received all-originals album &amp;#39;Hidden Here&amp;#39;. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568868</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sxmeyc18s96f4vs6hw45ets23u</x-trumba:ealink>
+			<category>2013/06/23 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568868</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-23T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-23T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-23T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-23T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Sunday is Lauren Lucille. Lauren’s songwriting started at the age of ten and, through her teens, Lauren was writing folk and pop songs on guitar and piano. Performing at festivals and venues around Australia for the past 6 years, Lauren is now acknowledged by her peers as a great composer and performer and was a finalist in the 2012 QMusic Awards for one of her jazz compositions from her new and well received all-originals album 'Hidden Here'.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568868</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, June 29, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246632</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cdg3m7y9y0vg2d8t3v4vs1y0z1</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246632</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-28T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246632</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Saturday, June 29, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Saturday is Candice McLeod. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568873</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sxw7533z839d6zs441dpsb7bzj</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568873</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-29T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Saturday is Candice McLeod.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568873</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Asian Cooking Classes</title>
+			<description>Saturday, June 29, 2013, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1:30pm &lt;br/&gt;&lt;br/&gt;Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105197498</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8h8vh83nd1whd79nns6nwdd0vs</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105197498</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/105197489</x-trumba:masterid>
+			<xCal:summary>Asian Cooking Classes</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-29T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T13:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various Asian cuisines, a local chef will teach the audience how to cook a different Asian dish each week. Taste testing and recipes will be supplied.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105197498</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgAk8byt6BGWb9Zyaf10MLYl.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tai Chi Class</title>
+			<description>Saturday, June 29, 2013, 1:30&amp;nbsp;&amp;ndash;&amp;nbsp;2:30pm &lt;br/&gt;&lt;br/&gt;Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205863&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Chinatown Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;China Town Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568504</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mkzgjey9ss6uyfbcn9m9jn70my</x-trumba:ealink>
+			<category>2013/06/29 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568504</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/104521936</x-trumba:masterid>
+			<xCal:summary>Tai Chi Class</xCal:summary>
+			<xCal:location>Chinatown Mall</xCal:location>
+			<xCal:dtstart>2013-06-29T03:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-29T13:30:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-29T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-29T14:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Every Saturday in the Chinatown Mall a local Tai Chi teacher will conduct a free workshop for people of all ages and fitness levels to learn the art of Tai Chi.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568504</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCFQa9QDw%2AFcAwcIKnR5M%2AI.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Chinatown Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">China Town Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, June 30, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246582</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cahrs07fw841k8ykv88zfkjgsm</x-trumba:ealink>
+			<category>2013/06/30 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246582</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-06-29T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-30T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-30T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-30T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246582</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets Music</title>
+			<description>Sunday, June 30, 2013, 11am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane&amp;#39;s upcoming artists. This Sunday is Yemanja. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Cost&lt;/b&gt;:&amp;nbsp;Free &lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=206142&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brunswick Street Mall&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d105568874</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4vu05dud5cb9vj4srnkphc70x8</x-trumba:ealink>
+			<category>2013/06/30 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/105568874</guid>
+			<xCal:summary>Valley Markets Music</xCal:summary>
+			<xCal:location>Brunswick Street Mall</xCal:location>
+			<xCal:dtstart>2013-06-30T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-06-30T11:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-06-30T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-06-30T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>At the Valley Markets each weekend there will be live entertainment at the Brunswick Street Mall Stage showcasing some of Brisbane's upcoming artists. This Sunday is Yemanja.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/105568874</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Cost" id="22177" type="text">Free</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCtl4M1oLBXo1f9bni4JKUv.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Brunswick Street Mall</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, July 6, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246633</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0e3uh299aduhp1pjt1vdb63e50</x-trumba:ealink>
+			<category>2013/07/06 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246633</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-05T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-06T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-06T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-06T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246633</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, July 7, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95246583</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wudz3fpmzk2a156nccyyg6m8j9</x-trumba:ealink>
+			<category>2013/07/07 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95246583</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-06T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-07T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-07T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-07T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95246583</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, July 13, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95470044</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=097m88rrjfnwcunkb9gcmyhhcb</x-trumba:ealink>
+			<category>2013/07/13 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95470044</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-12T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-13T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-13T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-13T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95470044</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, July 14, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95470900</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sgpfkdzb27au0f0dybrwdhnak1</x-trumba:ealink>
+			<category>2013/07/14 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95470900</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-13T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-14T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-14T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-14T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95470900</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, July 20, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95470045</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g61s5wss5617etw8p683vnvk1w</x-trumba:ealink>
+			<category>2013/07/20 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95470045</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-19T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-20T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-20T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-20T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95470045</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, July 21, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95470901</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0t2es21pnwyvtgr6bpnxk5889v</x-trumba:ealink>
+			<category>2013/07/21 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95470901</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-20T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-21T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-21T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-21T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95470901</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Saturday, July 27, 2013, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95650166</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4c1hnpjm4fzmgw9gzrr54561t9</x-trumba:ealink>
+			<category>2013/07/27 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95650166</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246361</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-26T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-27T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-27T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-27T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95650166</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgBYlWcE9GmH43T78XD-vFZC.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Valley Markets</title>
+			<description>Sunday, July 28, 2013, 9am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=205883&amp;amp;objecttype=19243&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Valley Malls&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=Brunswick+St%2c+Fortitude+Valley%2c+QLD+4006" target="_blank"&gt;Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://www.brisbane.qld.gov.au/whats-on/featured/Events-in-Brisbane/index.htm?trumbaEmbed=view%3devent%26eventid%3d95651190</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ch5gxep2e53df6mpm8ywfw4sv7</x-trumba:ealink>
+			<category>2013/07/28 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95651190</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95246477</x-trumba:masterid>
+			<xCal:summary>Valley Markets</xCal:summary>
+			<xCal:location>Valley Malls</xCal:location>
+			<xCal:dtstart>2013-07-27T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2013-07-28T09:00:00</x-trumba:localstart>
+			<xCal:dtend>2013-07-28T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2013-07-28T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Showcasing live entertainment on saturdays and various stalls selling vintage items, fashion, bric a brac and Chinese products plus other items every Saturday and Sunday.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95651190</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Brisbane City Council</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="200" imageHeight="177">http://trumba.com/i/DgCkgiUoQWwFQVXZ1kbeJ3pV.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22542" type="text">Valley Malls</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Chinatown Mall and Brunswick Street Mall, Brunswick St, Fortitude Valley</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Valley Malls</x-trumba:categorycalendar>
+		</item>
+	</channel>
+</rss>

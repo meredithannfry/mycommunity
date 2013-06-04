@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="rss" type="rssType" />
+  <xsd:complexType name="rssType">
+    <xsd:sequence>
+      <xsd:element name="channel" type="channelType" />
+    </xsd:sequence>
+    <xsd:attribute name="version" type="xsd:decimal" />
+  </xsd:complexType>
+  <xsd:complexType name="channelType">
+    <xsd:sequence>
+      <xsd:element name="title" type="xsd:string" />
+      <xsd:element name="link" type="xsd:string" />
+      <xsd:element name="description" type="xsd:string" />
+      <xsd:element name="language" type="xsd:string" />
+      <xsd:element name="lastBuildDate" type="xsd:dateTime" />
+      <xsd:element name="image" type="imageType" />
+      <xsd:element name="xCal:prodid" type="xsd:string" />
+      <xsd:element name="xCal:version" type="xsd:decimal" />
+      <xsd:element name="xCal:method" type="xsd:string" />
+      <xsd:element name="xCal:calscale" type="xsd:string" />
+      <xsd:element name="xCal:calname" type="xsd:string" />
+      <xsd:element name="xCal:timezone" type="xsd:string" />
+      <xsd:element maxOccurs="unbounded" name="item" type="itemType" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="itemType">
+    <xsd:sequence>
+      <xsd:element name="title" type="xsd:string" />
+      <xsd:element name="description" type="xsd:string" />
+      <xsd:element name="link" type="xsd:string" />
+      <xsd:element name="x-trumba:ealink" type="xsd:string" />
+      <xsd:element name="category" type="xsd:string" />
+      <xsd:element name="guid" type="guidType" />
+      <xsd:element name="xCal:summary" type="xsd:string" />
+      <xsd:element name="xCal:location" type="xsd:string" />
+      <xsd:element name="xCal:dtstart" type="xsd:dateTime" />
+      <xsd:element name="x-trumba:localstart" type="x-trumba:localstartType" />
+      <xsd:element name="xCal:dtend" type="xsd:dateTime" />
+      <xsd:element name="x-trumba:localend" type="x-trumba:localendType" />
+      <xsd:element name="x-microsoft:cdo-alldayevent" type="xsd:boolean" />
+      <xsd:element name="xCal:description" type="xsd:string" />
+      <xsd:element name="xCal:uid" type="xsd:string" />
+      <xsd:element name="x-trumba:customfield" type="x-trumba:customfieldType" />
+      <xsd:element name="x-trumba:categorycalendar" type="xsd:string" />
+      <xsd:element name="x-trumba:weblink" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="x-trumba:customfieldType">
+    <xsd:attribute name="name" type="xsd:string" />
+    <xsd:attribute name="id" type="xsd:int" />
+    <xsd:attribute name="type" type="xsd:string" />
+  </xsd:complexType>
+  <xsd:complexType name="x-trumba:localendType">
+    <xsd:attribute name="tzAbbr" type="xsd:string" />
+    <xsd:attribute name="tzCode" type="xsd:int" />
+  </xsd:complexType>
+  <xsd:complexType name="x-trumba:localstartType">
+    <xsd:attribute name="tzAbbr" type="xsd:string" />
+    <xsd:attribute name="tzCode" type="xsd:int" />
+  </xsd:complexType>
+  <xsd:complexType name="guidType">
+    <xsd:attribute name="isPermaLink" type="xsd:boolean" />
+  </xsd:complexType>
+  <xsd:complexType name="imageType">
+    <xsd:sequence>
+      <xsd:element name="title" type="xsd:string" />
+      <xsd:element name="url" type="xsd:string" />
+      <xsd:element name="link" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
