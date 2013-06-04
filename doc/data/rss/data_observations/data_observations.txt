@@ -1,0 +1,4 @@
+data_observations
+-----------------
+- xml data sources taken from BCC odata @ http://data.brisbane.qld.gov.au/index.php/datasets/
+- data sourced from http://www.trumba.com/calendars
